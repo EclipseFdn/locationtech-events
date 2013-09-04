@@ -1,0 +1,174 @@
+.contrast{
+	color:@orange;
+}
+
+#map{
+  /* background:url("../images/header-map.jpg") center; */
+  min-height: 600px;
+}
+
+#main-menu-bar{
+	padding-top:23px;
+  .btn{
+    margin-top:7px;
+    margin-left:10px;
+  }
+  li a{
+    color:@greymain;
+  }
+}
+
+.navbar{
+	margin-bottom:0;
+	background:url("../images/menu-bg.jpg") repeat-x;
+}
+
+.navbar-brand{
+  padding:29px 0 15px 0;  
+}
+
+.navbar-toggle {
+  background-color:@orange;
+  .icon-bar{
+    background-color:#fff;
+  }
+}
+
+#sponsors{
+	background:url("../images/sponsors-bg.jpg") top center #f7f7f7 repeat-x;
+	padding-top:59px;
+	ul{   
+	   text-align: center;
+	   padding-bottom:9px;
+	}
+	.list-inline > li{
+	   padding-left:9px;
+	   padding-right:9px;
+	   padding-bottom:49px;
+	}	
+}
+
+#main-content{
+  background:url("../images/content-bg.jpg") top no-repeat;
+  min-height:484px;
+}
+
+#twitter-feed{
+  margin-bottom:20px;
+}
+
+#other-dates{
+	margin-bottom:20px;
+	h2{
+	 color:@blue;
+	} 
+}
+
+#sponsorship-info{
+	background: #fff;
+	.box-shadow(@shadow: 0 1px 10px rgba(0,0,0,.15));
+	padding:0 25px 10px 25px;
+	margin-bottom:20px;
+	h3{
+	   border-bottom:2px dotted #ccc;
+	   padding-bottom:3px;
+	   color:@blue;
+	}
+	h4{
+	   color:@bluelight;
+	   margin-bottom:0;
+	   margin-top:13px;
+	}
+}
+
+#sponsorship-picture img{
+  padding-top:100px;
+}
+
+#twitter-feed h3{
+	color:@orange;
+}
+
+#next-event{
+	#event-header{
+	  margin-top:20px;
+	  h2{
+	   color:@bluelight;
+      float:left;
+      background:#fff;
+      font-size: 2.5em;
+      margin-top: 0;     
+      padding: 29px;
+      span{
+        color:@blue;
+      }	   
+	    img{
+	      display:inline;
+	      padding:5px 15px 10px 15px;
+	    }
+    }
+	}	
+}
+
+footer{
+	background: #70809b;
+	color:@greyfooter;
+	padding-top:40px;
+	#copyright{
+	   border-top: 1px solid @bluegrey;
+	   border-bottom: 1px solid @bluegrey;
+	   margin:10px 0px 30px 0px;
+	   padding:10px 5px;
+	   font-size: 0.9em;
+	}
+	
+	h4{
+	   color:#fff;
+	   text-transform: uppercase;
+	   font-size:16px;
+	}
+	li{
+	   background: url("../images/list-arrow.png") 0 7px no-repeat;
+	   padding-left:10px;
+	   margin-left:2px; 
+	}
+	#reach-us{
+	   ul{
+	     padding-top:10px;
+	     li{
+	       padding-left:0;
+	       margin-left:0px; 
+	       background:none;
+	     }
+     }
+	}
+	a:link,
+	a:visited{
+	   color:@greyfooter;
+	}
+}
+
+/* Leaflet Overrides */
+.leaflet-popup-tip-container{
+	display:none;
+}
+.leaflet-popup{
+	width: 300px;
+}
+.leaflet-container a.btn{
+	color:#fff;
+}
+
+
+/* Medium devices (desktops, 992px and down) */
+@media (max-width: @screen-md) {
+  #main-menu-bar.pull-right{
+    float: none !important;
+  }
+  #sponsorship-info{
+    h3{
+      padding-top:1em;
+    }
+  }
+}
+

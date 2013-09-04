@@ -1,0 +1,7 @@
+{
+  "require": {
+    "components/jquery": "1.9.*",
+    "components/bootstrap": "3.0.*",
+    "twitter/bootstrap": "3.0.*"
+  }
+}
