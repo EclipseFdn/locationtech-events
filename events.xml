@@ -6,7 +6,7 @@
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="140, 190">
     <iconUrl>ottawa-reverse.png</iconUrl>
     </marker>
-    <date>Oct 6, 2013 06:55:57 PM EST</date>
+    <date>Nov 5, 2013 06:00:00 PM EST</date>
     <latitude>45.393348</latitude>
     <longitude>-75.69561</longitude>
     <registration><![CDATA[https://locationtech-ottawa.eventbrite.com/]]></registration>
@@ -18,19 +18,19 @@
     <marker iconSize="320, 138" iconAnchor="0, 138" popupAnchor="155, 145">
     <iconUrl>montreal.png</iconUrl>
     </marker>
-    <date>Sep 8, 2013 2:55:57 PM EST</date>
+    <date>November 6, 2013 6:00:00 PM EST</date>
     <latitude>45.536482</latitude>
     <longitude>-73.592702</longitude>
     <registration><![CDATA[https://locationtech-montreal.eventbrite.com/]]></registration>
     <body><![CDATA[Dolor quis umami 8-bit bitters, skateboard pariatur. Pinterest narwhal proident minim, sustainable Williamsburg officia brunch authentic reprehenderit mollit art party Brooklyn shabby chic hoodie.]]></body>
   </event>
   <event>
-    <city>Washington</city>
+    <city>Washington D.C.</city>
     <image>placeholder-location-image206x217.png</image>
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
     <iconUrl>washington-reverse.png</iconUrl>
     </marker>
-    <date>Nov 7, 2013 06:55:57 PM EST</date>
+    <date>Nov 14, 2013 01:00:00 PM EST</date>
     <latitude>38.895112</latitude>
     <longitude>-77.036366</longitude>
     <registration><![CDATA[https://locationtech-ny.eventbrite.com/]]]></registration>
@@ -42,19 +42,19 @@
     <marker iconSize="320, 29" iconAnchor="0, 29" popupAnchor="355, 0">
     <iconUrl>philadelphia-straight.png</iconUrl>
     </marker>
-    <date>Sep 1, 2013 06:55:57 PM EST</date>
+    <date>Nov 13, 2013 01:00:00 PM EST</date>
     <latitude>39.952335</latitude>
     <longitude>-75.163789</longitude>
     <registration><![CDATA[https://locationtech-ny.eventbrite.com/]]]></registration>
     <body><![CDATA[Dolor quis umami 8-bit bitters, skateboard pariatur. Pinterest narwhal proident minim, sustainable Williamsburg officia brunch authentic reprehenderit mollit art party Brooklyn shabby chic hoodie.]]></body>
   </event>
   <event>
-    <city>New York</city>
+    <city>New York City</city>
     <image>placeholder-location-image206x217.png</image>
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 10">
     <iconUrl>newyork-reverse.png</iconUrl>
     </marker>
-    <date>Sept 9, 2013 06:55:57 PM EST</date>
+    <date>Nov 12, 2013 09:30:00 PM EST</date>
     <latitude>40.714269</latitude>
     <longitude>-74.005973</longitude>
     <registration><![CDATA[https://locationtech-ny.eventbrite.com/]]></registration>
@@ -66,7 +66,7 @@
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 10">
     <iconUrl>boston-reverse.png</iconUrl>
     </marker>
-    <date>Nov 7, 2013 06:55:57 PM EST</date>
+    <date>Nov 7, 2013 09:30:00 PM EST</date>
     <latitude>42.358431</latitude>
     <longitude>-71.059773</longitude>
     <registration><![CDATA[https://locationtech-ny.eventbrite.com/]]]></registration>
