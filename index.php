@@ -88,7 +88,7 @@
 								Support 5 events in a single transaction, <strong>25% discount</strong>
 								</p>
 							</div>
-							<div class="visible-md col-md-3" id="sponsorship-picture">
+							<div class="visible-md visible-lg col-md-3" id="sponsorship-picture">
 								<img src="assets/images/<?php print $next['image'];?>" alt="<?php print $next['city'];?> picture"/>
 							</div>
 
