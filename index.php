@@ -19,10 +19,6 @@
 		<meta name="description" content="List of upcomming LocationTech Tour events." />
 		<meta name="keywords" content="locationtech tour, locationtech events" />
 
-		<script type="text/javascript">var switchTo5x=true;</script>
-		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-		<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
-
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="../../assets/js/html5shiv.js"></script>
@@ -231,3 +227,4 @@
 
   </body>
 </html>
+
