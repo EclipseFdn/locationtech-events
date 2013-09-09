@@ -83,10 +83,12 @@
 								<p><strong class="contrast">Gold:</strong> $1000 for non-members/$500 for members<br/>
 								<strong class="contrast">Silver:</strong> $500 for non-members/$250 for members</p>
 
-								<h4>Multiple event discount</h4>
+								<h4>Tour level discount</h4>
 								<p>Support 3 events in a single transaction, <strong>15% discount</strong><br/>
 								Support 5 events in a single transaction, <strong>25% discount</strong>
 								</p>
+                                                                <p><a href="mailto:info@locationtech.org">Contact us about sponsoring</a>
+                                                                </p>
 							</div>
 							<div class="visible-md visible-lg col-md-3" id="sponsorship-picture">
 								<img src="assets/images/<?php print $next['image'];?>" alt="<?php print $next['city'];?> picture"/>
