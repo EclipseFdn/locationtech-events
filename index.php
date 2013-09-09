@@ -75,6 +75,7 @@
 								<p><?php print $next['body'];?></p>
 								<p><?php print $next['registration'];?></p>
 								<h3>Sponsorship Prices</h3>
+                                                                <p>Sponsorship is available for single events, or the entire tour (see below).</p>
 								<h4>Evening only events</h4>
 								<p><strong class="contrast">Gold:</strong> $500 for non-members/$250 for members<br/>
 								<strong class="contrast">Silver:</strong> $250 for non-members/$125 for members</p>
@@ -84,8 +85,8 @@
 								<strong class="contrast">Silver:</strong> $500 for non-members/$250 for members</p>
 
 								<h4>Tour level discount</h4>
-								<p>Support 3 events in a single transaction, <strong>15% discount</strong><br/>
-								Support 5 events in a single transaction, <strong>25% discount</strong>
+								<p>3 event sponsor pack, <strong>15% discount</strong><br/>
+								5 event sponsor pack, <strong>25% discount</strong>
 								</p>
                                                                 <p><a href="mailto:info@locationtech.org">Contact us about sponsoring</a>
                                                                 </p>
