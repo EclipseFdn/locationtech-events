@@ -88,7 +88,7 @@
 								<p>3 event sponsor pack, <strong>15% discount</strong><br/>
 								5 event sponsor pack, <strong>25% discount</strong>
 								</p>
-                                                                <p><a href="mailto:info@locationtech.org">Contact us about sponsoring</a>
+                                                                <p><a href="mailto:info@locationtech.org"><strong class="contrast">Contact us about sponsoring</strong></a>
                                                                 </p>
 							</div>
 							<div class="visible-md visible-lg col-md-3" id="sponsorship-picture">
