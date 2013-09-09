@@ -84,7 +84,7 @@
 								<p><strong class="contrast">Gold:</strong> $1000 for non-members/$500 for members<br/>
 								<strong class="contrast">Silver:</strong> $500 for non-members/$250 for members</p>
 
-								<h4>Tour level discount</h4>
+								<h4>Tour sponsor discount</h4>
 								<p>3 event sponsor pack, <strong>15% discount</strong><br/>
 								5 event sponsor pack, <strong>25% discount</strong>
 								</p>
