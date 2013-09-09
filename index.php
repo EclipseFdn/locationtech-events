@@ -208,7 +208,7 @@
    	 	map.doubleClickZoom.disable();
     	L.tileLayer('http://{s}.tile.cloudmade.com/2657344f891e48bcb4defa3bd7c32f77/107312/256/{z}/{x}/{y}.png', {
     	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-        maxZoom: 18,
+        maxZoom: 8,
         minZoom: 6
     	}).addTo(map);
     	<?php print $event->getJavascript();?>
