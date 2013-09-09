@@ -31,7 +31,7 @@
   </head>
   <body>
 
-    <div id="map">
+    <div id="map" class="visible-md visible-lg">
       <div class="container">
           <div class="row"></div>
       </div>
