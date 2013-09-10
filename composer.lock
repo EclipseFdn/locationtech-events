@@ -3,8 +3,42 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "909be7d8503ab20f46d37e6658832e33",
+    "hash": "222d10f3ed5066e26073371de9bf2786",
     "packages": [
+        {
+            "name": "afarkas/html5shiv",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aFarkas/html5shiv.git",
+                "reference": "782276b50296d2c472cb4e9b2a8b0a170afab479"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aFarkas/html5shiv/zipball/782276b50296d2c472cb4e9b2a8b0a170afab479",
+                "reference": "782276b50296d2c472cb4e9b2a8b0a170afab479",
+                "shasum": ""
+            },
+            "require": {
+                "robloach/component-installer": "*"
+            },
+            "type": "component",
+            "extra": {
+                "component": {
+                    "scripts": [
+                        "dist/html5shiv.js"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT",
+                "GPL-2.0"
+            ],
+            "description": "Defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.",
+            "homepage": "http://paulirish.com/2011/the-history-of-the-html5-shiv/",
+            "time": "2013-08-29 19:03:03"
+        },
         {
             "name": "components/bootstrap",
             "version": "3.0.0",
@@ -312,9 +346,9 @@
 
     ],
     "minimum-stability": "stable",
-    "stability-flags": [
-
-    ],
+    "stability-flags": {
+        "afarkas/html5shiv": 20
+    },
     "platform": [
 
     ],
