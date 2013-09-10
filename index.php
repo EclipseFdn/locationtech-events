@@ -16,7 +16,7 @@
 
     <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
 
-		<meta name="description" content="List of upcomming LocationTech Tour events." />
+		<meta name="description" content="List of upcoming LocationTech Tour events." />
 		<meta name="keywords" content="locationtech tour, locationtech events" />
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
