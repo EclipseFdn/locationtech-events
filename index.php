@@ -75,6 +75,7 @@
 								<p><?php print $next['body'];?></p>
 								<p><?php print $next['registration'];?></p>
 								<h3>Sponsorship Prices</h3>
+                                                                <p>Sponsorship is available for single events, or the entire tour (see below).</p>
 								<h4>Evening only events</h4>
 								<p><strong class="contrast">Gold:</strong> $500 for non-members/$250 for members<br/>
 								<strong class="contrast">Silver:</strong> $250 for non-members/$125 for members</p>
@@ -83,10 +84,12 @@
 								<p><strong class="contrast">Gold:</strong> $1000 for non-members/$500 for members<br/>
 								<strong class="contrast">Silver:</strong> $500 for non-members/$250 for members</p>
 
-								<h4>Multiple event discount</h4>
-								<p>Support 3 events in a single transaction, <strong>15% discount</strong><br/>
-								Support 5 events in a single transaction, <strong>25% discount</strong>
+								<h4>Tour sponsor discount</h4>
+								<p>3 event sponsor pack, <strong>15% discount</strong><br/>
+								5 event sponsor pack, <strong>25% discount</strong>
 								</p>
+                                                                <p><a href="mailto:info@locationtech.org"><strong class="contrast">Contact us about sponsoring</strong></a>
+                                                                </p>
 							</div>
 							<div class="visible-md visible-lg col-md-3" id="sponsorship-picture">
 								<img src="assets/images/<?php print $next['image'];?>" alt="<?php print $next['city'];?> picture"/>
@@ -206,7 +209,7 @@
    	 	map.doubleClickZoom.disable();
     	L.tileLayer('http://{s}.tile.cloudmade.com/2657344f891e48bcb4defa3bd7c32f77/107312/256/{z}/{x}/{y}.png', {
     	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-        maxZoom: 18,
+        maxZoom: 6,
         minZoom: 6
     	}).addTo(map);
     	<?php print $event->getJavascript();?>
