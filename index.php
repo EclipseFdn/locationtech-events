@@ -63,11 +63,12 @@
         <div class="row">
           <div class="col-md-6">
             <div id="next-event" class="col-md-12">
-							<div id="event-header" class="clearfix">
+							<div id="event-header">
 								<h2>Next Event<img src="assets/images/location-sm-icon16x16.gif" alt="locationtech logo"/>
 								  <span id="event-location"><?php print $next['city']?></span>
 								</h2>
 							</div>
+							<div class="clearfix visible-xs"></div>
 							<img src="assets/images/large-arrow97x89.gif" alt="Arrow pointing to the next event." class="hidden-xs"/>
 							<div class="col-md-9" id="sponsorship-info">
 								<h3>Information</h3>
