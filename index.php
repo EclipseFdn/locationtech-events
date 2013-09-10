@@ -68,14 +68,14 @@
 								  <span id="event-location"><?php print $next['city']?></span>
 								</h2>
 							</div>
-							<img src="assets/images/large-arrow97x89.gif" alt="Arrow pointing to the next event."/>
+							<img src="assets/images/large-arrow97x89.gif" alt="Arrow pointing to the next event." class="hidden-xs"/>
 							<div class="col-md-9" id="sponsorship-info">
 								<h3>Information</h3>
 								<p><strong>Date:</strong> <?php print $next['date_formated'];?></p>
 								<p><?php print $next['body'];?></p>
 								<p><?php print $next['registration'];?></p>
 								<h3>Sponsorship Prices</h3>
-                                                                <p>Sponsorship is available for single events, or the entire tour (see below).</p>
+                <p>Sponsorship is available for single events, or the entire tour (see below).</p>
 								<h4>Evening only events</h4>
 								<p><strong class="contrast">Gold:</strong> $500 for non-members/$250 for members<br/>
 								<strong class="contrast">Silver:</strong> $250 for non-members/$125 for members</p>
@@ -88,8 +88,9 @@
 								<p>3 event sponsor pack, <strong>15% discount</strong><br/>
 								5 event sponsor pack, <strong>25% discount</strong>
 								</p>
-                                                                <p><a href="mailto:info@locationtech.org"><strong class="contrast">Contact us about sponsoring</strong></a>
-                                                                </p>
+                <p><a href="mailto:info@locationtech.org">
+                	<strong class="contrast">Contact us about sponsoring</strong></a>
+                </p>
 							</div>
 							<div class="visible-md visible-lg col-md-3" id="sponsorship-picture">
 								<img src="assets/images/<?php print $next['image'];?>" alt="<?php print $next['city'];?> picture"/>
@@ -205,12 +206,15 @@
     <!-- leaflet.js -->
     <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
     <script type="text/javascript">
-    	var map = L.map('map').setView([43.358431, -71.059773], 6);
+    	var map = L.map('map', {
+    		 maxZoom: 7,
+    	   minZoom: 1,
+    	   scrollWheelZoom: false,
+         zoomControl: false
+        	}).setView([43.358431, -71.059773], 6);
    	 	map.doubleClickZoom.disable();
     	L.tileLayer('http://{s}.tile.cloudmade.com/2657344f891e48bcb4defa3bd7c32f77/107312/256/{z}/{x}/{y}.png', {
     	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
-        maxZoom: 6,
-        minZoom: 6
     	}).addTo(map);
     	<?php print $event->getJavascript();?>
     </script>
