@@ -54,7 +54,7 @@
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 10">
     <iconUrl>newyork-reverse.png</iconUrl>
     </marker>
-    <date>Nov 12, 2013 09:30:00 PM EST</date>
+    <date>Nov 12, 2013 09:30:00 AM EST</date>
     <latitude>40.714269</latitude>
     <longitude>-74.005973</longitude>
     <registration><![CDATA[https://locationtech-ny.eventbrite.com/]]></registration>
@@ -66,7 +66,7 @@
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 10">
     <iconUrl>boston-reverse.png</iconUrl>
     </marker>
-    <date>Nov 7, 2013 09:30:00 PM EST</date>
+    <date>Nov 7, 2013 09:30:00 AM EST</date>
     <latitude>42.358431</latitude>
     <longitude>-71.059773</longitude>
     <registration><![CDATA[https://locationtech-ny.eventbrite.com/]]></registration>
