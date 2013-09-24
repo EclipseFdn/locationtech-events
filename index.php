@@ -130,9 +130,11 @@
 
 		<div id="sponsors">
 			<div class="container clearfix">
+                                <!--
 				<ul class="list-inline">
 					<li><a href="http://opengeo.org/" title="OpenGeo" target="_blank"><img src="assets/images/sponsors/OpenGeo121x30.png" alt="OpenGeo"/></a></li>
 				</ul>
+                                -->
 			</div>
 		</div>
 
