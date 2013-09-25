@@ -109,7 +109,7 @@ class Events {
 			$body .= "<p>";
 			$body .= "<strong>Date:</strong> " . $c['date_formated'];
 			$body .= "</p>";
-			$body .= "<p>" . $c['body'] . "</p>";
+			$body .= "<p>" . addslashes($c['body']) . "</p>";
 			if (!empty($c['registration'])) {
 				$body .= $c['registration'];
 			}
