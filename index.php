@@ -130,11 +130,9 @@
 
 		<div id="sponsors">
 			<div class="container clearfix">
-                                <!--
 				<ul class="list-inline">
-					<li><a href="http://opengeo.org/" title="OpenGeo" target="_blank"><img src="assets/images/sponsors/OpenGeo121x30.png" alt="OpenGeo"/></a></li>
+					<li><a href="http://azavea.com/" title="Azavea" target="_blank"><img src="assets/images/sponsors/Azavea.png" alt="Azavea"/></a></li>
 				</ul>
-                                -->
 			</div>
 		</div>
 
