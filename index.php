@@ -131,7 +131,7 @@
 		<div id="sponsors">
 			<div class="container clearfix">
 				<ul class="list-inline">
-					<li><a href="http://azavea.com/" title="Azavea" target="_blank"><img src="assets/images/sponsors/Azavea.png" alt="Azavea"/></a></li>
+					<li><a href="http://azavea.com/" title="Azavea" target="_blank"><img src="assets/images/sponsors/Azavea.png" height="39" width="160" alt="Azavea"/></a></li>
 					<li><a href="http://boundlessgeo.com//" title="Boundlessgeo" target="_blank"><img src="assets/images/sponsors/Boundlessgeo.png" alt="Boundlessgeo"/></a></li>
 					<li><a href="http://google.com//" title="Google" target="_blank"><img src="assets/images/sponsors/Google.png" alt="Google"/></a></li>
 					<li><a href="http://departments.columbian.gwu.edu/geography/" title="George Washington University" target="_blank"><img src="assets/images/sponsors/GWU.jpg" alt="George Washington University"/></a></li>
