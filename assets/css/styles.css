@@ -377,7 +377,8 @@ th.visible-print,td.visible-print{display:none !important}
 .navbar-brand{padding:29px 0 15px 0}
 .navbar-toggle{background-color:#e7a246}.navbar-toggle .icon-bar{background-color:#fff}
 #sponsors{background:url("../images/sponsors-bg.jpg") top center #f7f7f7 repeat-x;padding-top:59px}#sponsors ul{text-align:center;padding-bottom:49px}
-#sponsors .list-inline>li{padding-left:9px;padding-right:9px;min-height:100px;margin-right:10px;margin-left:10px;-webkit-box-shadow:0 10px 6px -6px #999;-moz-box-shadow:0 10px 6px -6px #999;box-shadow:0 10px 6px -6px #999;background:#fff}#sponsors .list-inline>li a{display:table-cell !important;vertical-align:middle;height:100px}
+#sponsors .list-inline>li{padding-left:9px;padding-right:9px;min-height:100px;margin-right:10px;margin-left:10px;-webkit-box-shadow:0 10px 6px -6px #999;-moz-box-shadow:0 10px 6px -6px #999;box-shadow:0 10px 6px -6px #999;background:#fff;margin-bottom:20px}#sponsors .list-inline>li a{display:table-cell !important;vertical-align:middle;height:100px}
+#sponsors h2{margin-top:0;margin-bottom:.8em;padding-bottom:.2em}
 #main-content{background:url("../images/content-bg.jpg") top no-repeat;min-height:484px}
 #twitter-feed{margin-bottom:20px}
 #other-dates{margin-bottom:20px}#other-dates h2{color:#3b5276}
