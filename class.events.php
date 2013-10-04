@@ -76,7 +76,7 @@ class Events {
 					'iconAnchor' => $this->xml_attribute($e->marker, 'iconAnchor'),
 					'city' => $e->city,
 					'date' => strtotime($e->date),
-					'date_formated' => date('D, F jS, Y H:s a', strtotime($e->date)),
+					'date_formated' => date('D, F jS, Y H:s', strtotime($e->date)),
 					'url' => ($e->registration != "") ? $e->registration : '#',
 					'registration' => ($e->registration != "") ? '<a href="' . $e->registration . '" class="btn btn-primary">Register</a>' : '',
 					'iconUrl' => $e->marker->iconUrl,
