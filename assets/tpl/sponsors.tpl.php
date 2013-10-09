@@ -6,7 +6,7 @@
 			<li><a href="http://boundlessgeo.com/" title="Boundlessgeo" target="_blank"><img src="assets/images/sponsors/Boundlessgeo.png" alt="Boundlessgeo"/></a></li>
 			<li><a href="http://www.appgeo.com/" title="Applied Geographics" target="_blank"><img src="assets/images/sponsors/appgeo.jpg" height="63" width="160" alt="Applied Geographics"/></a></li>
 
-			<li><a href="http://www.mapgears.com/" title="MapGears" target="_blank"><img src="assets/images/sponsors/mapgears.png" height="87" width="160" alt="MapGears"/></a></li>
+			<li><a href="http://www.mapgears.com/" title="MapGears" target="_blank"><img src="assets/images/sponsors/MapGears.png" height="87" width="160" alt="MapGears"/></a></li>
 
 			<li><a href="http://google.com/" title="Google" target="_blank"><img src="assets/images/sponsors/Google.png" alt="Google"/></a></li>
 			<li><a href="http://departments.columbian.gwu.edu/geography/" title="George Washington University" target="_blank"><img src="assets/images/sponsors/GWU.png" height="84" width="160" alt="George Washington University"/></a></li>
