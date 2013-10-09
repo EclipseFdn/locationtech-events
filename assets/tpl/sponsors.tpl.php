@@ -8,6 +8,8 @@
 
 			<li><a href="http://www.mapgears.com/" title="MapGears" target="_blank"><img src="assets/images/sponsors/MapGears.png" height="87" width="160" alt="MapGears"/></a></li>
 
+			<li><a href="http://www.twitter.com/" title="Twitter" target="_blank"><img src="assets/images/sponsors/twitter.png" height="160" width="160" alt="Twitter"/></a></li>
+
 			<li><a href="http://google.com/" title="Google" target="_blank"><img src="assets/images/sponsors/Google.png" alt="Google"/></a></li>
 
 			<li><a href="http://departments.columbian.gwu.edu/geography/" title="George Washington University" target="_blank"><img src="assets/images/sponsors/GWU.png" height="84" width="160" alt="George Washington University"/></a></li>
