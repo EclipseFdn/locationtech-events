@@ -8,7 +8,7 @@
 
 			<li><a href="http://www.mapgears.com/" title="MapGears" target="_blank"><img src="assets/images/sponsors/MapGears.png" height="87" width="160" alt="MapGears"/></a></li>
 
-			<li><a href="http://www.twitter.com/" title="Twitter" target="_blank"><img src="assets/images/sponsors/twitter.png" height="136" width="160" alt="Twitter"/></a></li>
+			<li><a href="http://www.twitter.com/" title="Twitter" target="_blank"><img src="assets/images/sponsors/twitter.png" height="109" width="128" alt="Twitter"/></a></li>
 
 			<li><a href="http://google.com/" title="Google" target="_blank"><img src="assets/images/sponsors/Google.png" alt="Google"/></a></li>
 
