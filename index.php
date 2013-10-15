@@ -149,11 +149,11 @@
       	    <div class="col-md-4 col-sm-4">
         	    <h4>Speakers list</h4>
           	  <ul class="list-unstyled">
-            	  <li><a href="https://locationtechnewyork1.eventbrite.ca/">Juan Marin, CTO, Boundless</a></li>
-            	  <li><a href="https://locationtechnewyork1.eventbrite.ca/">Dale Harrison, Engineering Manager, Twitter</a></li>
-		  <li><a href="http://locationtechdc1.eventbrite.ca/">Eric Gundersen, CEO, Mapbox</a></li>
-            	  <li><a href="https://locationtechnewyork1.eventbrite.ca/">David Blackman, Senior Software Engineer, Foursquare</a></li>
-            	  <li><a href="https://locationtechnewyork1.eventbrite.ca/">Ed Parsons, Ed Parsons, Geospatial Technologist, Google</a></li>
+            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Juan Marin, CTO, Boundless</a></li>
+            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Dale Harrison, Engineering Manager, Twitter</a></li>
+		  <li><a href="http://locationtechdc1.eventbrite.com/">Eric Gundersen, CEO, Mapbox</a></li>
+            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">David Blackman, Senior Software Engineer, Foursquare</a></li>
+            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Ed Parsons, Ed Parsons, Geospatial Technologist, Google</a></li>
             	</ul>
 	          </div>
   	        <div class="col-md-4 col-sm-4">
