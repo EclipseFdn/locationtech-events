@@ -153,6 +153,7 @@
             	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Dale Harrison, Engineering Manager, Twitter</a></li>
 		  <li><a href="http://locationtechdc1.eventbrite.com/">Eric Gundersen, CEO, Mapbox</a></li>
             	  <li><a href="https://locationtechnewyork1.eventbrite.com/">David Blackman, Senior Software Engineer, Foursquare</a></li>
+		  <li><a href="http://locationtechdc1.eventbrite.com/">Charlie Greenbacker, Principal Data Scientist, Berico Technologies</a></li>
 <!--
             	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Ed Parsons, Ed Parsons, Geospatial Technologist, Google</a></li>
 -->
