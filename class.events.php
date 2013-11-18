@@ -98,6 +98,11 @@ class Events {
         break;
       }
     }
+    // show the first event if the tour is over.
+    if (empty($this->next)) {
+    	$this->next = $event[0];
+    }
+
     $this->event = $event;
   }
 
