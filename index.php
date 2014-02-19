@@ -77,17 +77,15 @@
 								<p><?php print $next['registration'];?></p>
 								<h3>Sponsorship Prices</h3>
                 <p>Sponsorship is available for single events, or the entire tour (see below).</p>
-								<h4>Evening only events</h4>
-								<p><strong class="contrast">Gold:</strong> $500 for non-members/$250 for members<br/>
-								<strong class="contrast">Silver:</strong> $250 for non-members/$125 for members</p>
-								<h4>Full day events</h4>
 
-								<p><strong class="contrast">Gold:</strong> $1000 for non-members/$500 for members<br/>
-								<strong class="contrast">Silver:</strong> $500 for non-members/$250 for members</p>
+								<h4>Evening only events</h4>
+								<p><strong class="contrast">Single event:</strong> $500 for non-members/$250 for members<br/>
+
+								<h4>Full day events</h4>
+								<p><strong class="contrast">Single event:</strong> $1000 for non-members/$500 for members<br/>
 
 								<h4>Sponsor ALL events in the tour</h4>
-								<p><strong class="contrast">Gold:</strong> $1500 for non-members/$1000 for members</br>
-								<strong class="contrast">Silver:</strong> $750 for non-members/$500 for members</p>
+								<p><strong class="contrast">Entire Tour:</strong> $2K for members/$4.5K for non-members</br>
                 <p><a href="mailto:info@locationtech.org">
                 	<strong class="contrast">Contact us about sponsoring</strong></a>
                 </p>
