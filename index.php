@@ -205,8 +205,7 @@
     	var map = L.map('map', {
     		 maxZoom: 7,
     	   minZoom: 1,
-    	   scrollWheelZoom: false,
-         zoomControl: true
+    	   scrollWheelZoom: false
       }).setView([29.310000, -55.310000], 4);
    	 	map.doubleClickZoom.disable();
     	L.tileLayer('http://{s}.tile.cloudmade.com/2657344f891e48bcb4defa3bd7c32f77/107312/256/{z}/{x}/{y}.png', {
