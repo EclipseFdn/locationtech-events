@@ -1,0 +1,8 @@
+{
+  "require": {
+    "components/jquery": "1.9.*",
+    "afarkas/html5shiv": "dev-master",
+    "components/bootstrap": "3.0.*",
+    "twitter/bootstrap": "3.0.*"
+  }
+}
