@@ -1,29 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <events>
   <event>
-    <city>Ottawa</city>
+    <city>San Francisco</city>
     <image>cities/ottawa.jpg</image>
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="140, 190">
     <iconUrl>ottawa-reverse.png</iconUrl>
     </marker>
-    <date>Nov 4, 2013 06:30:00 PM EST</date>
-    <latitude>45.393348</latitude>
-    <longitude>-75.69561</longitude>
-    <registration><![CDATA[http://locationtechottawa1.eventbrite.ca/]]></registration>
-    <body><![CDATA[We start the LocationTech roadshow with a happy hour and great talks in the national capital of Canada. This evening event is a must attend session on Enterprise class digital mapping & building location-aware systems with open source components.]]></body>
+    <date>March 20, 2014 06:30:00 PM PST</date>
+    <latitude>37.7833</latitude>
+    <longitude>-122.4167</longitude>
+    <registration><![CDATA[http://locationtechsfo1.eventbrite.ca/]]></registration>
+    <body><![CDATA[We start the 2014 LocationTech Tour in the Golden Gate City. This evening event starts with a happy hour and features speakers from Boundless, Planet Labs, Red Hat, Twitter, and more.]]></body>
   </event>
-  <event>
-    <city>Montreal</city>
-    <image>cities/montreal.jpg</image>
-    <marker iconSize="320, 138" iconAnchor="0, 138" popupAnchor="155, 145">
-    <iconUrl>montreal.png</iconUrl>
-    </marker>
-    <date>November 6, 2013 6:00:00 PM EST</date>
-    <latitude>45.536482</latitude>
-    <longitude>-73.592702</longitude>
-    <registration><![CDATA[http://locationtechmontreal1.eventbrite.ca/]]></registration>
-    <body><![CDATA[Join us for a Geo Meetup in downtown Montreal for the second stop of the LocationTech Tour. Find out more about recent developments in the mapping world & location-aware systems in a blitz of lightning talks in a happy hour setting.]]></body>
-  </event>
+<!-- 
   <event>
     <city>Washington D.C.</city>
     <image>placeholder-location-image206x217.png</image>
@@ -36,40 +25,5 @@
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
     <body><![CDATA[The LocationTech "East Coast Blitz" concludes in Washington, DC on November 14th. Join us at The George Washington University for a round of invigorating talks in the early evening, followed by drinks and networking at a nearby watering hole.]]></body>
   </event>
-  <event>
-    <city>Philadelphia</city>
-    <image>placeholder-location-image206x217.png</image>
-    <marker iconSize="320, 29" iconAnchor="0, 29" popupAnchor="355, 0">
-    <iconUrl>philadelphia-straight.png</iconUrl>
-    </marker>
-    <date>Nov 13, 2013 01:00:00 PM EST</date>
-    <latitude>39.952335</latitude>
-    <longitude>-75.163789</longitude>
-    <registration><![CDATA[https://ignitelocationtechphiladelphia1.eventbrite.com/]]></registration>
-    <body><![CDATA[Coinciding with the second meeting of the new GeoPhilly meetup, LocationTech Philadelphia will feature a conference-style speaker series in the afternoon, followed by a social happy hour event with lightning talks in the evening.]]></body>
-  </event>
-  <event>
-    <city>New York City</city>
-    <image>placeholder-location-image206x217.png</image>
-    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 10">
-    <iconUrl>newyork-reverse.png</iconUrl>
-    </marker>
-    <date>Nov 12, 2013 06:00:00 PM EST</date>
-    <latitude>40.714269</latitude>
-    <longitude>-74.005973</longitude>
-    <registration><![CDATA[https://locationtechnewyork1.eventbrite.com/]]></registration>
-    <body><![CDATA[The LocationTech roadshow comes to the Big Apple on 11/12/13. Join us for a night of networking and learning. Come for the drinks and stay for the lightening talks from leading New York geospatial voices]]></body>
-  </event>
-  <event>
-    <city>Boston</city>
-    <image>placeholder-location-image206x217.png</image>
-    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 10">
-    <iconUrl>boston-reverse.png</iconUrl>
-    </marker>
-    <date>Nov 7, 2013 09:30:00 AM EST</date>
-    <latitude>42.358431</latitude>
-    <longitude>-71.059773</longitude>
-    <registration><![CDATA[http://www.avidgeo.com/2013-avidgeocon/]]></registration>
-    <body><![CDATA[This one day conference combines two important and dynamic technology areas: geospatial, and internet of things. This event includes presentations and workshops around data, development, and design.]]></body>
-  </event>
+-->
 </events>
