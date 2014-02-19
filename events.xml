@@ -2,7 +2,7 @@
 <events>
   <event>
     <city>San Francisco</city>
-    <image>cities/ottawa.jpg</image>
+    <image>cities/sanfrancisco.jpg</image>
     <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="140, 190">
     <iconUrl>ottawa-reverse.png</iconUrl>
     </marker>
