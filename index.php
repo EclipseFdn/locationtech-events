@@ -200,7 +200,7 @@
 
     <!-- leaflet.js -->
     <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
-    <script src="components/Leaflet.label/Leaflet.label.js"></script>
+    <script src="components/Leaflet.label/Marker.Label.js"></script>
     <script type="text/javascript">
     	var map = L.map('map', {
     		 maxZoom: 7,
