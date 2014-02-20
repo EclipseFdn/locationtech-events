@@ -123,8 +123,8 @@ class Events {
 
       $coordinate = $c['latitude'] . ', ' . $c['longitude'];
 
-      $this->javascript .= "var " . $id  . "Icon = L.icon({iconUrl: 'assets/images/pointer/" . $c['iconUrl'] . "', iconSize: [" . $c['iconSize'] ."], iconAnchor:   [" . $c['iconAnchor'] ."], popupAnchor:  [" . $c['popupAnchor'] ."]});" . PHP_EOL;
-      $this->javascript .= "var " . $id  . " = L.marker([" . $coordinate . "], {icon:" . $id . "Icon}).addTo(map);" . PHP_EOL;
+      // Create a dynamic label for each city
+      $this->javascript .= "var " . $id  . " = L.marker([" . $coordinate . "]).bindLabel('$City', { noHide: true }) .addTo(map);" . PHP_EOL;
       $this->javascript .=  $id  . '.bindPopup(\''. $body .'\');' . PHP_EOL;
     }
   }
