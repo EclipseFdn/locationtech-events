@@ -81,7 +81,6 @@ class Events {
           'date_formated' => date('D, F jS, Y H:i', strtotime($e->date)),
           'url' => ($e->registration != "") ? $e->registration : '#',
           'registration' => ($e->registration != "") ? '<a href="' . $e->registration . '" class="btn btn-primary">Register</a>' : '',
-          'iconUrl' => $e->marker->iconUrl,
           'body' => $e->body,
           'latitude' => $e->latitude,
           'longitude' => $e->longitude,
