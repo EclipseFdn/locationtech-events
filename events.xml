@@ -36,4 +36,16 @@
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
     <body><![CDATA[Co-located with the OGC Technical Meeting in Geneva, this evening event is a chance to learn more about technology pushing the state of the art for analytics and better work flows with data.]]></body>
   </event>
+  <event>
+    <city>Hamburg</city>
+    <image>placeholder-location-image206x217.png</image>
+    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
+    <iconUrl>washington-reverse.png</iconUrl>
+    </marker>
+    <date>June 24, 2014 06:30:00 PM CET</date>
+    <latitude>53.5653</latitude>
+    <longitude>10.0014</longitude>
+    <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
+    <body><![CDATA[Co-located with the OGC Technical Meeting in Geneva, this evening event is a chance to learn more about technology pushing the state of the art for analytics and better work flows with data.]]></body>
+  </event>
 </events>
