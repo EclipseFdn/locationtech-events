@@ -46,11 +46,10 @@
         <div class="collapse navbar-collapse pull-right" id="main-menu-bar">
           <ul class="nav navbar-nav">
             <li><a title="Home" href="http://locationtech.org/">Home</a></li>
-						<li><a title="Projects" href="http://locationtech.org/projects">Projects</a></li>
+						<li><a title="Projects" href="http://www.locationtech.org/list-of-projects">Projects</a></li>
 						<li><a title="Members" href="http://locationtech.org/members">Members</a></li>
 						<li><a title="Events" href="http://locationtech.org/meetings">Events</a></li>
 						<li><a title="A list of Steering Committee members." href="http://locationtech.org/steeringcommittee">Steering Committee</a></li>
-						<li><a title="Contact Us" href="http://locationtech.org/content/contact-us">Contact Us</a></li>
 						<li><a title="About Us" href="http://locationtech.org/about">About Us</a></li>
 					</ul>
 					<!--  <span class="visible-lg pull-right"><?php print $next['registration'];?></span> -->
