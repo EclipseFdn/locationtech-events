@@ -24,4 +24,16 @@
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
     <body><![CDATA[We celebrate one year of successes with an evening of good food, drinks, and short presentations highlighting the innovative new technology projects hosted at LocationTech.]]></body>
   </event>
+  <event>
+    <city>Geneva</city>
+    <image>placeholder-location-image206x217.png</image>
+    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
+    <iconUrl>washington-reverse.png</iconUrl>
+    </marker>
+    <date>June 11, 2014 06:30:00 PM CET</date>
+    <latitude>46.2000</latitude>
+    <longitude>6.1500</longitude>
+    <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
+    <body><![CDATA[Co-located with the OGC Technical Meeting in Geneva, this evening event is a chance to learn more about technology pushing the state of the art for analytics and better work flows with data.]]></body>
+  </event>
 </events>
