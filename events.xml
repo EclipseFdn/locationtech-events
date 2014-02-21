@@ -44,4 +44,15 @@
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
     <body><![CDATA[Co-located with the OGC Technical Meeting in Geneva, this evening event is a chance to learn more about technology pushing the state of the art for analytics and better work flows with data.]]></body>
   </event>
+  <event>
+    <city>Ottawa</city>
+    <image>ottawa.jpg</image>
+    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
+    </marker>
+    <date>November 12, 2014 09:00:00 PM EST</date>
+    <latitude>45.393348</latitude>
+    <longitude>-75.69561</longitude>
+    <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
+    <body><![CDATA[Co-located with the Envision Geomatics conference in Gatineau, a suberb of Ottawa, this 3 day event provides a thorough overview of open source geospatial technologies.]]></body>
+  </event>
 </events>
