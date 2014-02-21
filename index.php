@@ -14,7 +14,7 @@
     <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
     <link href="assets/css/styles.css" rel="stylesheet" media="screen">
 
-    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+    <link rel="stylesheet" href="components/Leaflet/leaflet.css" />
 
 		<meta name="description" content="List of upcoming LocationTech Tour events." />
 		<meta name="keywords" content="locationtech tour, locationtech events" />
@@ -199,7 +199,7 @@
     <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
     <!-- leaflet.js -->
-    <script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js"></script>
+    <script src="components/Leaflet/leaflet.js"></script>
     <script src="components/Leaflet.label/leaflet.label.js"></script>
     <script type="text/javascript">
     	var map = L.map('map', {
