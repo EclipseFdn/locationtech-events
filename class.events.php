@@ -123,8 +123,7 @@ class Events {
       $coordinate = $c['latitude'] . ', ' . $c['longitude'];
 
       // Create a dynamic label for each city
-      //$this->javascript .= "var " . $id  . " = L.marker([" . $coordinate . "]).bindLabel('$id', { noHide: true }).addTo(map);" . PHP_EOL;
-      $this->javascript .= "var " . $id  . " = L.marker([" . $coordinate . "]).addTo(map);" . PHP_EOL;
+      $this->javascript .= "var " . $id  . " = L.marker([" . $coordinate . "]).bindLabel('$id', { noHide: true }).addTo(map);" . PHP_EOL;
       $this->javascript .=  $id  . '.bindPopup(\''. $body .'\');' . PHP_EOL;
     }
   }
