@@ -124,7 +124,7 @@ class Events {
       $cityName = $c['city'];
 
       // Create a dynamic label for each city
-      $this->javascript .= "var " . $id  . " = L.marker([" . $coordinate . "]).bindLabel('$cityName', { noHide: true }).addTo(map);" . PHP_EOL;
+      $this->javascript .= "var " . $id  . " = L.marker([" . $coordinate . "]).bindLabel('$cityName', { noHide: true, className: citylabel }).addTo(map);" . PHP_EOL;
       $this->javascript .=  $id  . '.bindPopup(\''. $body .'\');' . PHP_EOL;
     }
   }
