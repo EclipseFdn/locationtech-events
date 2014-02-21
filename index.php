@@ -15,6 +15,7 @@
     <link href="assets/css/styles.css" rel="stylesheet" media="screen">
 
     <link rel="stylesheet" href="components/Leaflet/leaflet.css" />
+    <link rel="stylesheet" href="components/Leaflet.label/leaflet.label.css" />
 
 		<meta name="description" content="List of upcoming LocationTech Tour events." />
 		<meta name="keywords" content="locationtech tour, locationtech events" />
