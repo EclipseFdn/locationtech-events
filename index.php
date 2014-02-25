@@ -69,7 +69,6 @@
 								</h2>
 							</div>
 							<div class="clearfix visible-xs"></div>
-							<img src="assets/images/large-arrow97x89.gif" alt="Arrow pointing to the next event." class="hidden-xs"/>
 							<div class="col-md-9" id="sponsorship-info">
 								<h3>Information</h3>
 								<p><strong>Date:</strong> <?php print $next['date_formated'];?></p>
