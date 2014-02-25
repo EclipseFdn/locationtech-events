@@ -3,8 +3,6 @@
   <event>
     <city>San Francisco</city>
     <image>cities/sanfrancisco.jpg</image>
-    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="140, 190">
-    </marker>
     <date>March 20, 2014 06:30:00 PM PST</date>
     <latitude>37.7833</latitude>
     <longitude>-122.4167</longitude>
@@ -14,8 +12,6 @@
   <event>
     <city>Washington D.C.</city>
     <image>washingtondc.jpg</image>
-    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
-    </marker>
     <date>March 26, 2014 06:30:00 PM EST</date>
     <latitude>38.895112</latitude>
     <longitude>-77.036366</longitude>
@@ -25,8 +21,6 @@
   <event>
     <city>Geneva</city>
     <image>geneva.jpg</image>
-    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
-    </marker>
     <date>June 11, 2014 06:30:00 PM CET</date>
     <latitude>46.2000</latitude>
     <longitude>6.1500</longitude>
@@ -36,8 +30,6 @@
   <event>
     <city>Hamburg</city>
     <image>hamburg.jpg</image>
-    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
-    </marker>
     <date>June 24, 2014 06:30:00 PM CET</date>
     <latitude>53.5653</latitude>
     <longitude>10.0014</longitude>
@@ -47,8 +39,6 @@
   <event>
     <city>Ottawa</city>
     <image>ottawa.jpg</image>
-    <marker iconSize="320, 138" iconAnchor="320, 128" popupAnchor="155, 20">
-    </marker>
     <date>November 12, 2014 09:00:00 PM EST</date>
     <latitude>45.393348</latitude>
     <longitude>-75.69561</longitude>
