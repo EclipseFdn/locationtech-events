@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css'>
     <link href="assets/css/styles.css" rel="stylesheet" media="screen">
 
     <link rel="stylesheet" href="components/Leaflet/leaflet.css" />
@@ -42,7 +42,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="http://tour.locationtech.org/"><img src="assets/images/logo.jpg"/></a>
+          <a class="navbar-brand" href="//tour.locationtech.org/"><img src="assets/images/logo.jpg"/></a>
         </div>
         <div class="collapse navbar-collapse pull-right" id="main-menu-bar">
           <ul class="nav navbar-nav">
@@ -96,7 +96,7 @@
 							<div class="clearfix"></div>
 							<div id="twitter-feed" class="hidden-xs">
 							  <h3>Tweets about "#locationtechtour"</h3>
-            	  	<a class="twitter-timeline"  href="https://twitter.com/search?q=%23locationtechtour"  data-theme="" data-link-color="" width="" height="" data-chrome="noheader noborders noscrollbar transparent" data-border-color="" lang="" data-tweet-limit="6" data-related="" aria-polite="polite" data-widget-id="375619339128274945">Tweets about "#locationtechtour"</a>
+            	  	<a class="twitter-timeline"  href="//twitter.com/search?q=%23locationtechtour"  data-theme="" data-link-color="" width="" height="" data-chrome="noheader noborders noscrollbar transparent" data-border-color="" lang="" data-tweet-limit="6" data-related="" aria-polite="polite" data-widget-id="375619339128274945">Tweets about "#locationtechtour"</a>
 						  </div>
             </div>
           </div><!--/span-->
@@ -208,15 +208,15 @@
     	   scrollWheelZoom: false
       }).setView([40.000000, -55.310000], 4);
    	 	map.doubleClickZoom.disable();
-    	L.tileLayer('http://{s}.tile.cloudmade.com/2657344f891e48bcb4defa3bd7c32f77/107312/256/{z}/{x}/{y}.png', {
-    	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
+    	L.tileLayer('//api.tiles.mapbox.com/v3/locationtech.i600ihhm/{z}/{x}/{y}.png256', {
+    	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">MapBox</a>',
     	}).addTo(map);
     	<?php print $event->getJavascript();?>
     </script>
 
 		<!-- Sharethis -->
 		<script type="text/javascript">var switchTo5x=false;</script>
-		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+		<script type="text/javascript" src="//w.sharethis.com/button/buttons.js"></script>
 		<script type="text/javascript">stLight.options({publisher: "6f497309-e36c-40c0-af5d-85683e681bdd", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 
     <!-- Google Analytics -->
