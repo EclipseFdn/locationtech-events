@@ -19,6 +19,15 @@
     <body><![CDATA[We celebrate one year of successes with an evening of good food, drinks, and short presentations highlighting the innovative new technology projects hosted at LocationTech.]]></body>
   </event>
   <event>
+    <city>Toulouse</city>
+    <image>toulouse.jpg</image>
+    <date>June 16, 2014 05:00:00 PM CET</date>
+    <latitude>43.6045</latitude>
+    <longitude>1.4440</longitude>
+    <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-toulouse-tickets-11567724375]]></registration>
+    <body><![CDATA[Please join us in Toulouse on June 16, 2015 to learn about technology pushing the state of the art for mobile mapping and better work flows with data.]]></body>
+  </event>
+  <event>
     <city>Geneva</city>
     <image>geneva.jpg</image>
     <date>June 11, 2014 06:30:00 PM CET</date>
@@ -30,7 +39,7 @@
   <event>
     <city>Hamburg</city>
     <image>hamburg.jpg</image>
-    <date>June 24, 2014 06:30:00 PM CET</date>
+    <date>October 24, 2014 06:30:00 PM CET</date>
     <latitude>53.5653</latitude>
     <longitude>10.0014</longitude>
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
