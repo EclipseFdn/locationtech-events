@@ -90,4 +90,13 @@
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
     <body><![CDATA[Description TBA.]]></body>
   </event>
+  <event>
+    <city>Portland</city>
+    <image>portland.jpg</image>
+    <date>September 12, 2014 06:30:00 PM EST</date>
+    <latitude>45.520000</latitude>
+    <longitude>-122.6819</longitude>
+    <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
+    <body><![CDATA[Description TBA.]]></body>
+  </event>
 </events>
