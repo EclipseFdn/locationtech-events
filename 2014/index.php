@@ -90,7 +90,7 @@
                 </p>
 							</div>
 							<div class="visible-md visible-lg col-md-3" id="sponsorship-picture">
-								<img src="assets/images/<?php print $next['image'];?>" alt="<?php print $next['city'];?> picture"/>
+								<img src="2014/assets/images/<?php print $next['image'];?>" alt="<?php print $next['city'];?> picture"/>
 							</div>
 
 							<div class="clearfix"></div>
