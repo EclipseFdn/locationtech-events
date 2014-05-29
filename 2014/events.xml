@@ -36,6 +36,15 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-geneva-tickets-11782956139]]></registration>
     <body><![CDATA[Co-located with the OGC Technical Meeting in Geneva, this evening event is a chance to learn more about technology pushing the state of the art for visualization on mobile devices and data work flow.]]></body>
   </event>
+    <event>
+    <city>Victoria</city>
+    <image>victoria.jpg</image>
+    <date>October 2, 2014 06:30:00 PM PST</date>
+    <latitude>123.3657</latitude>
+    <longitude>-48.4222</longitude>
+    <registration><![CDATA[http://www.eventbrite.ca/o/locationtech-3244259956?s=12477536]]></registration>
+    <body><![CDATA[A social evening of fun, mapping and technology.]]></body>
+  </event>
   <event>
     <city>Hamburg</city>
     <image>hamburg.jpg</image>
