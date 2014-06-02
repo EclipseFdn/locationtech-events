@@ -41,7 +41,7 @@
     <image>calgary.jpg</image>
     <date>September 16, 2014 06:30:00 PM MDT</date>
     <latitude>51.0500</latitude>
-    <longitude>114.0667</longitude>
+    <longitude>-114.0667</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-geneva-tickets-11782956139]]></registration>
     <body><![CDATA[Co-located with the OGC Technical Meeting in Calgary, this evening event features presentations and demos of advanced open source geospatial software.]]></body>
   </event>
@@ -49,8 +49,8 @@
     <city>Victoria</city>
     <image>victoria.jpg</image>
     <date>October 2, 2014 06:30:00 PM PST</date>
-    <latitude>123.3657</latitude>
-    <longitude>-48.4222</longitude>
+    <latitude>48.4222</latitude>
+    <longitude>-123.3657</longitude>
     <registration><![CDATA[http://www.eventbrite.ca/o/locationtech-3244259956?s=12477536]]></registration>
     <body><![CDATA[A social evening of fun, mapping and technology.]]></body>
   </event>
