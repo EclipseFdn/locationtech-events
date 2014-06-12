@@ -117,4 +117,13 @@
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
     <body><![CDATA[Description TBA.]]></body>
   </event>
+  <event>
+    <city>London</city>
+    <image>london.jpg</image>
+    <date>October 1, 2014 06:30:00 PM BST</date>
+    <latitude>51.507200</latitude>
+    <longitude>-0.1275</longitude>
+    <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
+    <body><![CDATA[Description TBA.]]></body>
+  </event>
 </events>
