@@ -126,4 +126,13 @@
     <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
     <body><![CDATA[Description TBA.]]></body>
   </event>
+  <event>
+    <city>Toronto</city>
+    <image>toronto.jpg</image>
+    <date>August 14, 2014 06:30:00 PM EDT</date>
+    <latitude>43.7000</latitude>
+    <longitude>-79.4000</longitude>
+    <registration><![CDATA[http://locationtechdc1.eventbrite.com/]]></registration>
+    <body><![CDATA[Description TBA.]]></body>
+  </event>
 </events>
