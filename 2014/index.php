@@ -206,7 +206,7 @@
     		 maxZoom: 7,
     	   minZoom: 1,
     	   scrollWheelZoom: false
-      }).setView([40.000000, -55.310000], 4);
+      }).setView([40.000000, -55.310000], 3);
    	 	map.doubleClickZoom.disable();
     	L.tileLayer('//api.tiles.mapbox.com/v3/locationtech.i600ihhm/{z}/{x}/{y}.png256', {
     	attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">MapBox</a>',
