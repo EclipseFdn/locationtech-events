@@ -12,6 +12,8 @@
 
 			<li><a href="http://oracle.com/" title="Oracle" target="_blank"><img src="assets/images/sponsors/oracle.png" alt="Oracle"/></a></li>
 
+			<li><a href="http://osgeo.org/" title="OSGeo" target="_blank"><img src="assets/images/sponsors/OSGeo.png" alt="OSGeo"/></a></li>
+
 
 		</ul>
   </div>
