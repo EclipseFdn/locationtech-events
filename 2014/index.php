@@ -71,7 +71,7 @@
 							<div class="clearfix visible-xs"></div>
 							<div class="col-md-9" id="sponsorship-info">
 								<h3>Information</h3>
-								<p><strong>Date:</strong> <?php print $next['date_formated'];?></p>
+								<p><strong>Date:</strong> <?php print $next['date_formatted'];?></p>
 								<p><?php print $next['body'];?></p>
 								<p><?php print $next['registration'];?></p>
 								<h3>Sponsorship Prices</h3>
