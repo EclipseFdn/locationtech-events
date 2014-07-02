@@ -144,6 +144,7 @@ class Events {
       if ($e['city'] != $this->next['city']) {
         if ($pastOrFuture=="future" && $e['date'] >= time()) {
           // TODO: turn this into a function
+          print ("<p>DEBUG: future</p>");
           $x++;
           $this->otherevent .= '<div class="col-md-12">';
           $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
@@ -158,6 +159,7 @@ class Events {
         } // end of future
         elseif($pastOrFuture=="past" && $e['date'] < time()) {
           // TODO: turn this into a function
+          print ("<p>DEBUG: past</p>");
           $x++;
           $this->otherevent .= '<div class="col-md-12">';
           $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
@@ -172,6 +174,7 @@ class Events {
         } // end of past
         else {
           // TODO: turn this into a function
+          print ("<p>DEBUG: default</p>");
           $x++;
           $this->otherevent .= '<div class="col-md-12">';
           $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
