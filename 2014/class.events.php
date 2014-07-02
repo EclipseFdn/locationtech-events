@@ -58,15 +58,21 @@ class Events {
   }
 
   /**
-   * Fetch the html for the events in the sidebar
+   * Fetch the html for future events in the sidebar
    * @return string
    */
   public function getFutureEvents() {
+    $this->otherevent="";
     $this->createOtherEvents("future");
     return $this->otherevent;
   }
 
+  /**
+   * Fetch the html for past events in the sidebar
+   * @return string
+   */
   public function getPastEvents() {
+    $this->otherevent="";
     $this->createOtherEvents("past");
     return $this->otherevent;
   }
@@ -140,41 +146,35 @@ class Events {
   private function createOtherEvents($pastOrFuture) {
     $x = 0;
     foreach ($this->event as $e) {
-      // Display in this list if it's a future event
       if ($e['city'] != $this->next['city']) {
         if ($pastOrFuture=="future" && $e['date'] >= time()) {
-          // TODO: turn this into a function
-          print ("<p>DEBUG: future</p>");
-          $x++;
-          $this->otherevent .= '<div class="col-md-12">';
-          $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
-          $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
-          $this->otherevent .= '<p>' . $e['body'] . '</p>';
-          $this->otherevent .= '<p>' . $e['registration'] . '</p>';
-          $this->otherevent .= '<hr/></div>';
-          if($x == 3){
-            $x = 0;
-            $this->otherevent .= '<div class="clearfix"></div>';
-          }
+          $x=eventHTML($x);
         } // end of future
         elseif($pastOrFuture=="past" && $e['date'] < time()) {
-          // TODO: turn this into a function
-          print ("<p>DEBUG: past</p>");
-          $x++;
-          $this->otherevent .= '<div class="col-md-12">';
-          $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
-          $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
-          $this->otherevent .= '<p>' . $e['body'] . '</p>';
-          $this->otherevent .= '<p>' . $e['registration'] . '</p>';
-          $this->otherevent .= '<hr/></div>';
-          if($x == 3){
-            $x = 0;
-            $this->otherevent .= '<div class="clearfix"></div>';
-          }
+          $x=eventHTML($x);
         } // end of past
       } // end of city check
     } //end of foreach
   } //end of createOtherEvents
+
+  /**
+   * Helper function used in createOtherEvents()
+   *   Appends HTML text for event to array otherevent element
+   */
+  private function eventHTML($x) {
+    $x++;
+    $this->otherevent .= '<div class="col-md-12">';
+    $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
+    $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
+    $this->otherevent .= '<p>' . $e['body'] . '</p>';
+    $this->otherevent .= '<p>' . $e['registration'] . '</p>';
+    $this->otherevent .= '<hr/></div>';
+    if($x == 3){
+      $x = 0;
+      $this->otherevent .= '<div class="clearfix"></div>';
+    }
+    return $x;
+  }
 
   /**
    * Fetch an xml attribute
