@@ -105,7 +105,7 @@
           <div class="col-md-4 col-md-offset-2" id="other-dates">
           	<div class="row">
 						  <div class="col-md-12">
-        				<h2>LocationTech Tour</h2>
+        				<h2>Upcoming Events</h2>
         			</div>
         		</div>
 						<div class="row" id="other-dates-container">
