@@ -132,31 +132,11 @@ class Events {
   /**
    * Create the html for the events in the sidebar
    */
-  private function upcomingEvents() {
+  private function createOtherEvents() {
     $x = 0;
     foreach ($this->event as $e) {
       // Display in this list if it's a future event
       if ($e['city'] != $this->next['city'] && $e['date'] >= time()) {
-        $x++;
-        $this->otherevent .= '<div class="col-md-12">';
-        $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
-        $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
-        $this->otherevent .= '<p>' . $e['body'] . '</p>';
-        $this->otherevent .= '<p>' . $e['registration'] . '</p>';
-        $this->otherevent .= '<hr/></div>';
-        if($x == 3){
-          $x = 0;
-          $this->otherevent .= '<div class="clearfix"></div>';
-        }
-      }
-    }
-  }
-
-  private function pastEvents() {
-    $x = 0;
-    foreach ($this->event as $e) {
-      // Display in this list if it's a future event
-      if ($e['city'] != $this->next['city'] && $e['date'] < time()) {
         $x++;
         $this->otherevent .= '<div class="col-md-12">';
         $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
