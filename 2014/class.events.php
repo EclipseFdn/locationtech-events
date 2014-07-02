@@ -154,8 +154,9 @@ class Events {
           if($x == 3){
             $x = 0;
             $this->otherevent .= '<div class="clearfix"></div>';
-          } // end of future
-      elseif($pastOrFuture=="past" && $e['date'] < time()) {
+          }
+        } // end of future
+        elseif($pastOrFuture=="past" && $e['date'] < time()) {
           // TODO: turn this into a function
           $x++;
           $this->otherevent .= '<div class="col-md-12">';
@@ -167,8 +168,9 @@ class Events {
           if($x == 3){
             $x = 0;
             $this->otherevent .= '<div class="clearfix"></div>';
-          } // end of past
-      else {
+          }
+        } // end of past
+        else {
           // TODO: turn this into a function
           $x++;
           $this->otherevent .= '<div class="col-md-12">';
@@ -180,6 +182,7 @@ class Events {
           if($x == 3){
             $x = 0;
             $this->otherevent .= '<div class="clearfix"></div>';
+          }
         } // end of default
       } // end of city check
     } //end of foreach
