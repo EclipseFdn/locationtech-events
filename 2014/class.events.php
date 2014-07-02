@@ -62,7 +62,7 @@ class Events {
    * @return string
    */
   public function getFutureEvents() {
-    $this->otherevent="";
+    $this->otherevent=""; // clear to start fresh
     $this->createOtherEvents("future");
     return $this->otherevent;
   }
@@ -72,7 +72,7 @@ class Events {
    * @return string
    */
   public function getPastEvents() {
-    $this->otherevent="";
+    $this->otherevent=""; // clear to start fresh
     $this->createOtherEvents("past");
     return $this->otherevent;
   }
@@ -142,6 +142,8 @@ class Events {
 
   /**
    * Create the html for the events in the sidebar
+   *   Accepts paramter "past" or "future"
+   *   to control which events it outputs
    */
   private function createOtherEvents($pastOrFuture) {
     $x = 0;
@@ -152,13 +154,13 @@ class Events {
         } // end of future
         elseif($pastOrFuture=="past" && $e['date'] < time()) {
           $x=$this->eventHTML($e, $x);
-        } // end of past
-      } // end of city check
-    } //end of foreach
-  } //end of createOtherEvents
+        } 
+      }
+    }
+  }
 
   /**
-   * Helper function used in createOtherEvents()
+   * Helper function tightly linked to createOtherEvents()
    *   Appends HTML text for event to array otherevent element
    */
   private function eventHTML($e,$x) {
