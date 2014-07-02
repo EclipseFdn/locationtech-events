@@ -135,7 +135,8 @@ class Events {
   private function createOtherEvents() {
     $x = 0;
     foreach ($this->event as $e) {
-      if ($e['city'] != $this->next['city']) {
+      // Display in this list if it's a future event
+      if ($e['city'] != $this->next['city'] && $e['date'] >= time()) {
         $x++;
         $this->otherevent .= '<div class="col-md-12">';
         $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
