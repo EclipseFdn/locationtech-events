@@ -161,7 +161,7 @@ class Events {
    * Helper function used in createOtherEvents()
    *   Appends HTML text for event to array otherevent element
    */
-  private function eventHTML($x) {
+  private function eventHTML($e,$x) {
     $x++;
     $this->otherevent .= '<div class="col-md-12">';
     $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
