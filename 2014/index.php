@@ -110,7 +110,9 @@
         		</div>
 						<div class="row" id="other-dates-container">
 						  <div class="col-xs-12">
-        				<?php print $event->getOtherEvents();?>
+        				<?php print $event->upcomingEvents();?>
+        				<h2>Past Events</h2>
+        				<?php print $event->pastEvents();?>
         				<div class="clearfix"></div>
         				<div class="container">
 						  		<span class="st_sharethis_large" displayText="ShareThis"></span>
