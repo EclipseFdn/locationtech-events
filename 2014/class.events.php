@@ -148,10 +148,10 @@ class Events {
     foreach ($this->event as $e) {
       if ($e['city'] != $this->next['city']) {
         if ($pastOrFuture=="future" && $e['date'] >= time()) {
-          $x=eventHTML($x);
+          $x=$this.eventHTML($x);
         } // end of future
         elseif($pastOrFuture=="past" && $e['date'] < time()) {
-          $x=eventHTML($x);
+          $x=$this.eventHTML($x);
         } // end of past
       } // end of city check
     } //end of foreach
