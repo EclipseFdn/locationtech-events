@@ -61,8 +61,13 @@ class Events {
    * Fetch the html for the events in the sidebar
    * @return string
    */
-  public function getOtherEvents() {
-    $this->createOtherEvents();
+  public function getFutureEvents() {
+    $this->createOtherEvents("future");
+    return $this->otherevent;
+  }
+
+  public function getPastEvents() {
+    $this->createOtherEvents("past");
     return $this->otherevent;
   }
 
@@ -132,25 +137,53 @@ class Events {
   /**
    * Create the html for the events in the sidebar
    */
-  private function createOtherEvents() {
+  private function createOtherEvents($pastOrFuture) {
     $x = 0;
     foreach ($this->event as $e) {
       // Display in this list if it's a future event
-      if ($e['city'] != $this->next['city'] && $e['date'] >= time()) {
-        $x++;
-        $this->otherevent .= '<div class="col-md-12">';
-        $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
-        $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
-        $this->otherevent .= '<p>' . $e['body'] . '</p>';
-        $this->otherevent .= '<p>' . $e['registration'] . '</p>';
-        $this->otherevent .= '<hr/></div>';
-        if($x == 3){
-          $x = 0;
-          $this->otherevent .= '<div class="clearfix"></div>';
-        }
-      }
-    }
-  }
+      if ($e['city'] != $this->next['city']) {
+        if ($pastOrFuture=="future" && $e['date'] >= time()) {
+          // TODO: turn this into a function
+          $x++;
+          $this->otherevent .= '<div class="col-md-12">';
+          $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
+          $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
+          $this->otherevent .= '<p>' . $e['body'] . '</p>';
+          $this->otherevent .= '<p>' . $e['registration'] . '</p>';
+          $this->otherevent .= '<hr/></div>';
+          if($x == 3){
+            $x = 0;
+            $this->otherevent .= '<div class="clearfix"></div>';
+          } // end of future
+      elseif($pastOrFuture=="past" && $e['date'] < time()) {
+          // TODO: turn this into a function
+          $x++;
+          $this->otherevent .= '<div class="col-md-12">';
+          $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
+          $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
+          $this->otherevent .= '<p>' . $e['body'] . '</p>';
+          $this->otherevent .= '<p>' . $e['registration'] . '</p>';
+          $this->otherevent .= '<hr/></div>';
+          if($x == 3){
+            $x = 0;
+            $this->otherevent .= '<div class="clearfix"></div>';
+          } // end of past
+      else {
+          // TODO: turn this into a function
+          $x++;
+          $this->otherevent .= '<div class="col-md-12">';
+          $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
+          $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
+          $this->otherevent .= '<p>' . $e['body'] . '</p>';
+          $this->otherevent .= '<p>' . $e['registration'] . '</p>';
+          $this->otherevent .= '<hr/></div>';
+          if($x == 3){
+            $x = 0;
+            $this->otherevent .= '<div class="clearfix"></div>';
+        } // end of default
+      } // end of city check
+    } //end of foreach
+  } //end of createOtherEvents
 
   /**
    * Fetch an xml attribute

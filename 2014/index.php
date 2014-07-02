@@ -110,9 +110,10 @@
         		</div>
 						<div class="row" id="other-dates-container">
 						  <div class="col-xs-12">
-        				<?php print $event->getOtherEvents();?>
+        				<?php print $event->getFutureEvents();?>
 
         				<h2>Past Events</h2>
+        				<?php print $event->getPastEvents();?>
 
         				<div class="clearfix"></div>
         				<div class="container">
