@@ -48,9 +48,9 @@
           <ul class="nav navbar-nav">
             <li><a title="Home" href="http://locationtech.org/">Home</a></li>
 						<li><a title="Technology" href="http://www.locationtech.org/list-of-projects">Technology</a></li>
+						<li><a title="A list of Sponsors" href="http://tour.locationtech.org/2014/sponsors.php">Sponsors</a></li>
 						<li><a title="Members" href="http://locationtech.org/members">Members</a></li>
 						<li><a title="Events" href="http://locationtech.org/meetings">Events</a></li>
-						<li><a title="A list of Steering Committee members." href="http://locationtech.org/steeringcommittee">Steering Committee</a></li>
 						<li><a title="About Us" href="http://locationtech.org/about">About Us</a></li>
 					</ul>
 					<!--  <span class="visible-lg pull-right"><?php print $next['registration'];?></span> -->
