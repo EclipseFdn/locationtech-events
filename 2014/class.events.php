@@ -172,21 +172,6 @@ class Events {
             $this->otherevent .= '<div class="clearfix"></div>';
           }
         } // end of past
-        else {
-          // TODO: turn this into a function
-          print ("<p>DEBUG: default</p>");
-          $x++;
-          $this->otherevent .= '<div class="col-md-12">';
-          $this->otherevent .= '<h4>' . $e['city'] . '</h4>';
-          $this->otherevent .= '<p><strong>Date: </strong>' . $e['date_formatted'] . '</p>';
-          $this->otherevent .= '<p>' . $e['body'] . '</p>';
-          $this->otherevent .= '<p>' . $e['registration'] . '</p>';
-          $this->otherevent .= '<hr/></div>';
-          if($x == 3){
-            $x = 0;
-            $this->otherevent .= '<div class="clearfix"></div>';
-          }
-        } // end of default
       } // end of city check
     } //end of foreach
   } //end of createOtherEvents
