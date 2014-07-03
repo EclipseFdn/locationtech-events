@@ -90,6 +90,9 @@
                 <p><a href="mailto:info@locationtech.org">
                 	<strong class="contrast">Contact us about sponsoring</strong></a>
                 </p>
+                <p><a href="http://tour.locationtech.org/2014/assets/agreement/LocationTech_Tour2014_sponsor_agreement.pdf">
+                        <strong class="contrast">Sponsor Agreement</strong></a>
+                </p>
 							</div>
 							<div class="visible-md visible-lg col-md-3" id="sponsorship-picture">
 								<img src="assets/images/<?php print $next['image'];?>" alt="<?php print $next['city'];?> picture"/>
