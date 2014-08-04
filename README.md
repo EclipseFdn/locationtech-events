@@ -3,6 +3,7 @@ locationtech-events
 
 Re-usable material for LocationTech events.
 
-2013's event tour web page is here:
-http://tour.locationtech.org
+Webpage for the current tour: http://tour.locationtech.org
 
+Archived tour pages:
+* [2013's event tour web page!](http://tour.locationtech.org/2013)
