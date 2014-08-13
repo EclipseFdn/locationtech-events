@@ -91,13 +91,22 @@
     <body><![CDATA[Description TBA.]]></body>
   </event>
   <event>
-    <city>Philadelphia</city>
+    <city>Philadelphia </city>
     <image>philadelphia.jpg</image>
     <date>November 20, 2014 1:00:00 PM EST</date>
     <latitude>39.9500</latitude>
     <longitude>-75.1700</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-philadelphia-tickets-12168445147]]></registration>
     <body><![CDATA[Philadelphia's LocationTech event will be a conference-style speaker series featuring technical talks on the convergence of open source and geospatial. This will also be a <a href="http://geophilly.com/">GeoPhilly</a> event hosted by <a href="http://www.azavea.com/">Azavea</a>.  A social happy hour will follow.]]></body>
+  </event>
+  <event>
+    <city>Philadelphia-Sprint</city>
+    <image>philadelphia.jpg</image>
+    <date>November 21, 2014 10:00:00 AM EST</date>
+    <latitude>36.9500</latitude>
+    <longitude>-72.1700</longitude>
+    <registration><![CDATA[]]></registration>
+    <body><![CDATA[This event is a code sprint hosted by <a href="http://www.azavea.com/">Azavea</a>. This event provides an opportunity to work on LocationTech project code with experts.]]></body>
   </event>
   <event>
     <city>Washington D.C.</city>
