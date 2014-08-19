@@ -10,7 +10,7 @@
 
 			<!--<li><a href="http://www.twitter.com/" title="Twitter" target="_blank"><img src="assets/images/sponsors/twitter.png" height="109" width="128" alt="Twitter"/></a></li>-->
 
-			<li><a href="http://www.mapzen.com/" title="Mapzen" target="_blank"><img src="assets/images/sponsors/mapzen.png" alt="Mapzen"/></a></li>-->
+			<li><a href="http://www.mapzen.com/" title="Mapzen" target="_blank"><img src="assets/images/sponsors/mapzen.png" alt="Mapzen"/></a></li>
 
 			<li><a href="http://oracle.com/" title="Oracle" target="_blank"><img src="assets/images/sponsors/oracle.png" alt="Oracle"/></a></li>
 
