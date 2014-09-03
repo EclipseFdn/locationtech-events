@@ -73,6 +73,15 @@
     <body><![CDATA[Co-located with the Envision Geomatics conference in Gatineau, a suburb of Ottawa, this 3 day event provides a thorough overview of open source geospatial technologies.]]></body>
   </event>
   <event>
+    <city>Ottawa-High Performance Geoprocessing Symposium</city>
+    <image>ottawa.jpg</image>
+    <date>November 13, 2014 10:00:00 AM EST</date>
+    <latitude>45.393348</latitude>
+    <longitude>-75.69561</longitude>
+    <registration><![CDATA[https://www.eventbrite.ca/e/high-performance-geoprocessing-symposium-tickets-12938909627]]></registration>
+    <body><![CDATA[This full day symposium focuses on state of the art high performance geoprocessing technologies.]]></body>
+  </event>
+  <event>
     <city>Boston</city>
     <image>boston.jpg</image>
     <date>November 18, 2014 09:00:00 AM EST</date>
