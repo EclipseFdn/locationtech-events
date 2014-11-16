@@ -155,14 +155,12 @@
       	    <div class="col-md-4 col-sm-4">
         	    <h4>Speakers list</h4>
           	  <ul class="list-unstyled">
-            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Juan Marin, CTO, Boundless</a></li>
-            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Jonathan Simms, Senior Software Engineer, Twitter</a></li>
-		  <li><a href="http://locationtechdc1.eventbrite.com/">Eric Gundersen, CEO, Mapbox</a></li>
-            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">David Blackman, Senior Software Engineer, Foursquare</a></li>
-		  <li><a href="http://locationtechdc1.eventbrite.com/">Charlie Greenbacker, Principal Data Scientist, Altamira</a></li>
-<!--
-            	  <li><a href="https://locationtechnewyork1.eventbrite.com/">Ed Parsons, Ed Parsons, Geospatial Technologist, Google</a></li>
--->
+            	  <li><a href="http://azavea.com">Robert Cheetham, Azavea</a></li>
+            	  <li><a href="http://planet.com">Frank Warmerdam, Planetlabs</a></li>
+            	  <li><a href="http://boundlessgeo.com">Juan Marin, Boundless</a></li>
+            	  <li><a href=""></a></li>
+		  <li><a href="http://locationtechdc1.eventbrite.com/">Charlie Greenbacker, Altamira</a></li>
+            	  <li><a href="http://ccri.com">Anthony Fox, CCRi</a></li>
             	</ul>
 	          </div>
   	        <div class="col-md-4 col-sm-4">
