@@ -48,6 +48,8 @@
             <li><a title="Home" href="http://locationtech.org/">Home</a></li>
 						<li><a title="Projects" href="http://locationtech.org/projects">Projects</a></li>
 						<li><a title="Members" href="http://locationtech.org/members">Members</a></li>
+                                                <li><a title="2014 Tour" href="http://tour.locationtech.org/2014/">2014 Tour</a></li>
+                                                <li><a title="2015 Tour" href="http://tour.locationtech.org/2015/">2015 Tour</a></li>
 						<li><a title="Events" href="http://locationtech.org/meetings">Events</a></li>
 						<li><a title="A list of Steering Committee members." href="http://locationtech.org/steeringcommittee">Steering Committee</a></li>
 						<li><a title="Contact Us" href="http://locationtech.org/content/contact-us">Contact Us</a></li>
