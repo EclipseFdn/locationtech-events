@@ -148,6 +148,7 @@
 								<li><a title="Members" href="http://locationtech.org/members">Members</a></li>
 								<li><a title="Events" href="http://locationtech.org/meetings">Events</a></li>
 								<li><a title="2013 Tour Archive" href="http://tour.locationtech.org/2013/">2013 Tour Archive</a></li>
+								<li><a title="2015 Tour" href="http://tour.locationtech.org/2015/">2015 Tour Archive</a></li>
 								<li><a title="Contact Us" href="http://locationtech.org/content/contact-us">Contact Us</a></li>
 								<li><a title="About Us" href="http://locationtech.org/about">About Us</a></li>
 							</ul>
