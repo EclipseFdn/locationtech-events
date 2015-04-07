@@ -19,22 +19,13 @@
     <body><![CDATA[We celebrate one year of successes with an evening of good food, drinks, and short presentations highlighting the innovative new technology projects hosted at LocationTech.]]></body>
   </event>
   <event>
-    <city>Toulouse</city>
-    <image>toulouse.jpg</image>
-    <date>June 16, 2015 05:00:00 PM CET</date>
-    <latitude>43.6045</latitude>
-    <longitude>1.4440</longitude>
-    <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-toulouse-tickets-11567724375]]></registration>
-    <body><![CDATA[Please join us in Toulouse, the heart of the aerospace industry in Europe. This event features presentations and demos of technology pushing the state of the art for mobile mapping as well as advanced data version control and what that means for work flows.]]></body>
-  </event>
-  <event>
-    <city>Geneva</city>
-    <image>geneva.jpg</image>
-    <date>June 11, 2015 06:30:00 PM CET</date>
-    <latitude>46.2000</latitude>
-    <longitude>6.1500</longitude>
-    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-geneva-tickets-11782956139]]></registration>
-    <body><![CDATA[Co-located with the OGC Technical Meeting in Geneva, this evening event is a chance to learn more about technology pushing the state of the art for visualization on mobile devices and data work flow.]]></body>
+    <city>Huntsville</city>
+    <image>huntsville.jpg</image>
+    <date>October 21, 2015 06:30:00 PM EST</date>
+    <latitude>34.730000</latitude>
+    <longitude>-86.585000</longitude>
+    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
+    <body><![CDATA[TBD for Huntsville.]]></body>
   </event>
   <event>
     <city>Calgary</city>
@@ -66,7 +57,7 @@
   <event>
     <city>Hamburg</city>
     <image>hamburg.jpg</image>
-    <date>October 23, 2015 06:30:00 PM CET</date>
+    <date>November 10, 2015 06:30:00 PM CET</date>
     <latitude>53.5653</latitude>
     <longitude>10.0014</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511]]></registration>
@@ -156,10 +147,28 @@
   <event>
     <city>Madrid</city>
     <image>madrid.jpg</image>
-    <date>October 21, 2015 06:30:00 PM CET</date>
+    <date>December 7, 2015 06:30:00 PM CET</date>
     <latitude>40.4000</latitude>
     <longitude>-3.6833</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-12166132229]]></registration>
     <body><![CDATA[This LocationTech Meetup in Madrid is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, learn about useful technology, and plenty of camraderie.]]></body>
+  </event>
+  <event>
+    <city>Valencia</city>
+    <image>valencia.jpg</image>
+    <date>December 8, 2015 06:30:00 PM CET</date>
+    <latitude>39.4667</latitude>
+    <longitude>-0.3833</longitude>
+    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-12166132229]]></registration>
+    <body><![CDATA[TBD for Valencia.]]></body>
+  </event>
+  <event>
+    <city>Toulouse</city>
+    <image>toulouse.jpg</image>
+    <date>December 9, 2015 05:00:00 PM CET</date>
+    <latitude>43.6045</latitude>
+    <longitude>1.4440</longitude>
+    <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-toulouse-tickets-11567724375]]></registration>
+    <body><![CDATA[Please join us in Toulouse, the heart of the aerospace industry in Europe. This event features presentations and demos of technology pushing the state of the art for mobile mapping as well as advanced data version control and what that means for work flows.]]></body>
   </event>
 </events>
