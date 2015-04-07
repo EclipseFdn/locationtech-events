@@ -19,6 +19,15 @@
     <body><![CDATA[We celebrate one year of successes with an evening of good food, drinks, and short presentations highlighting the innovative new technology projects hosted at LocationTech.]]></body>
   </event>
   <event>
+    <city>Atlanta</city>
+    <image>atlanta.jpg</image>
+    <date>October 20, 2015 06:30:00 PM EST</date>
+    <latitude>33.755000</latitude>
+    <longitude>-84.390000</longitude>
+    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
+    <body><![CDATA[TBD for Atlanta.]]></body>
+  </event>
+  <event>
     <city>Huntsville</city>
     <image>huntsville.jpg</image>
     <date>October 21, 2015 06:30:00 PM EST</date>
@@ -26,6 +35,15 @@
     <longitude>-86.585000</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
     <body><![CDATA[TBD for Huntsville.]]></body>
+  </event>
+  <event>
+    <city>Oak Ridge</city>
+    <image>oakridge.jpg</image>
+    <date>October 22, 2015 06:30:00 PM EST</date>
+    <latitude>34.730000</latitude>
+    <longitude>-86.585000</longitude>
+    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
+    <body><![CDATA[TBD for Oak Ridge.]]></body>
   </event>
   <event>
     <city>Calgary</city>
