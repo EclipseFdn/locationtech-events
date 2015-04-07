@@ -3,16 +3,16 @@
   <event>
     <city>San Francisco</city>
     <image>sanfrancisco.jpg</image>
-    <date>March 20, 2014 06:30:00 PM PST</date>
+    <date>October 15, 2015 06:30:00 PM PST</date>
     <latitude>37.7833</latitude>
     <longitude>-122.4167</longitude>
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-sfo-tickets-10822501393]]></registration>
-    <body><![CDATA[We start the 2014 LocationTech Tour in the Golden Gate City. This evening event starts with a happy hour and features speakers from Boundless, Planet Labs, Red Hat, Twitter, and more.]]></body>
+    <body><![CDATA[We start the 2015 LocationTech Tour in the Golden Gate City. This evening event starts with a happy hour and features speakers from Boundless, Planet Labs, Red Hat, Twitter, and more.]]></body>
   </event>
   <event>
     <city>Washington D.C.</city>
     <image>washingtondc.jpg</image>
-    <date>March 26, 2014 06:30:00 PM EST</date>
+    <date>March 26, 2015 06:30:00 PM EST</date>
     <latitude>38.895112</latitude>
     <longitude>-77.036366</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
@@ -21,7 +21,7 @@
   <event>
     <city>Toulouse</city>
     <image>toulouse.jpg</image>
-    <date>June 16, 2014 05:00:00 PM CET</date>
+    <date>June 16, 2015 05:00:00 PM CET</date>
     <latitude>43.6045</latitude>
     <longitude>1.4440</longitude>
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-toulouse-tickets-11567724375]]></registration>
@@ -30,7 +30,7 @@
   <event>
     <city>Geneva</city>
     <image>geneva.jpg</image>
-    <date>June 11, 2014 06:30:00 PM CET</date>
+    <date>June 11, 2015 06:30:00 PM CET</date>
     <latitude>46.2000</latitude>
     <longitude>6.1500</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-geneva-tickets-11782956139]]></registration>
@@ -39,7 +39,7 @@
   <event>
     <city>Calgary</city>
     <image>calgary.jpg</image>
-    <date>September 16, 2014 06:30:00 PM MDT</date>
+    <date>September 16, 2015 06:30:00 PM MDT</date>
     <latitude>51.0500</latitude>
     <longitude>-114.0667</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-iot-calgary-tickets-12165867437]]></registration>
@@ -48,7 +48,16 @@
   <event>
     <city>Victoria</city>
     <image>victoria.jpg</image>
-    <date>September 25, 2014 06:30:00 PM PST</date>
+    <date>October 13, 2015 06:30:00 PM PST</date>
+    <latitude>48.4222</latitude>
+    <longitude>-123.3657</longitude>
+    <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-victoria-tickets-12166031929]]></registration>
+    <body><![CDATA[A social evening of fun, mapping and technology.]]></body>
+  </event>
+  <event>
+    <city>Vancouver</city>
+    <image>vancouver.jpg</image>
+    <date>October 14, 2015 06:30:00 PM PST</date>
     <latitude>48.4222</latitude>
     <longitude>-123.3657</longitude>
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-victoria-tickets-12166031929]]></registration>
@@ -57,7 +66,7 @@
   <event>
     <city>Hamburg</city>
     <image>hamburg.jpg</image>
-    <date>October 23, 2014 06:30:00 PM CET</date>
+    <date>October 23, 2015 06:30:00 PM CET</date>
     <latitude>53.5653</latitude>
     <longitude>10.0014</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511]]></registration>
@@ -66,16 +75,16 @@
   <event>
     <city>Ottawa</city>
     <image>ottawa.jpg</image>
-    <date>November 12, 2014 09:00:00 AM EST</date>
+    <date>November 12, 2015 09:00:00 AM EST</date>
     <latitude>45.393348</latitude>
     <longitude>-75.69561</longitude>
-    <registration><![CDATA[http://2014.visiongeomatique.com/index_en.html#top]]></registration>
+    <registration><![CDATA[http://2015.visiongeomatique.com/index_en.html#top]]></registration>
     <body><![CDATA[Co-located with the Envision Geomatics conference in Gatineau, a suburb of Ottawa, this 3 day event provides a thorough overview of open source geospatial technologies.]]></body>
   </event>
   <event>
     <city>Ottawa-High Performance Geoprocessing Symposium</city>
     <image>ottawa.jpg</image>
-    <date>November 13, 2014 10:00:00 AM EST</date>
+    <date>November 13, 2015 10:00:00 AM EST</date>
     <latitude>45.393348</latitude>
     <longitude>-75.69561</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/high-performance-geoprocessing-symposium-tickets-12938909627]]></registration>
@@ -84,7 +93,7 @@
   <event>
     <city>Boston</city>
     <image>boston.jpg</image>
-    <date>December 8, 2014 09:00:00 AM EST</date>
+    <date>October 6, 2015 09:00:00 AM EST</date>
     <latitude>42.3581</latitude>
     <longitude>-71.0636</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-boston-tickets-12168336823]]></registration>
@@ -93,7 +102,7 @@
   <event>
     <city>New York</city>
     <image>newyork.jpg</image>
-    <date>December 9, 2014 06:30:00 PM EST</date>
+    <date>October 7, 2015 06:30:00 PM EST</date>
     <latitude>40.6700</latitude>
     <longitude>-73.9400</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-new-york-tickets-12168378949]]></registration>
@@ -102,7 +111,7 @@
   <event>
     <city>Philadelphia </city>
     <image>philadelphia.jpg</image>
-    <date>November 20, 2014 1:00:00 PM EST</date>
+    <date>October 8, 2015 1:00:00 PM EST</date>
     <latitude>39.9500</latitude>
     <longitude>-75.1700</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-philadelphia-tickets-12168445147]]></registration>
@@ -111,25 +120,25 @@
   <event>
     <city>Philadelphia Code Sprint</city>
     <image>philadelphia.jpg</image>
-    <date>November 21, 2014 10:00:00 AM EST</date>
+    <date>November 21, 2015 10:00:00 AM EST</date>
     <latitude>39.7548</latitude>
     <longitude>-75.5467</longitude>
-    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-code-sprint-2014-tickets-12628794063]]></registration>
+    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-code-sprint-2015-tickets-12628794063]]></registration>
     <body><![CDATA[This event is a code sprint hosted by <a href="http://www.azavea.com/">Azavea</a>. This event provides an opportunity to work on open source geosptial project code with experts. All projects are welcome.]]></body>
   </event>
   <event>
     <city>Washington D.C.</city>
     <image>washingtondc.jpg</image>
-    <date>December 11, 2014 06:30:00 PM EST</date>
+    <date>December 11, 2015 06:30:00 PM EST</date>
     <latitude>38.895112</latitude>
     <longitude>-77.036366</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-washington-dc-tickets-12168505327]]></registration>
-    <body><![CDATA[A fitting completion of the 2014 Tour arriving back in Washington D.C. for an evening discussing new technologies and concepts advancing the state of the art in our industry.]]></body>
+    <body><![CDATA[A fitting completion of the 2015 Tour arriving back in Washington D.C. for an evening discussing new technologies and concepts advancing the state of the art in our industry.]]></body>
   </event>
   <event>
     <city>Portland</city>
     <image>portland.jpg</image>
-    <date>September 10, 2014 07:00:00 PM PDT</date>
+    <date>October 15, 2015 07:00:00 PM PDT</date>
     <latitude>45.520000</latitude>
     <longitude>-122.6819</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-foss4g-bof-tickets-12165801239]]></registration>
@@ -138,7 +147,7 @@
   <event>
     <city>Toronto</city>
     <image>toronto.jpg</image>
-    <date>November 10, 2014 06:30:00 PM EST</date>
+    <date>November 10, 2015 06:30:00 PM EST</date>
     <latitude>43.7000</latitude>
     <longitude>-79.4000</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-toronto-tickets-12168003827]]></registration>
@@ -147,7 +156,7 @@
   <event>
     <city>Madrid</city>
     <image>madrid.jpg</image>
-    <date>October 21, 2014 06:30:00 PM CET</date>
+    <date>October 21, 2015 06:30:00 PM CET</date>
     <latitude>40.4000</latitude>
     <longitude>-3.6833</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-12166132229]]></registration>
