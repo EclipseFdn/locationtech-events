@@ -77,7 +77,7 @@
 								<p><?php print $next['body'];?></p>
 								<p><?php print $next['registration'];?></p>
 								<h3>Speak at an event</h3>
-                                                                <p><a href="https://docs.google.com/forms/d/1uqqHpHjtiGCf5WGeNzn_oZWCh-fpAoO1h5s-VfF31sA/viewform">Propose a talk</a></p>
+                                                                <p><a href="https://docs.google.com/forms/d/1RYu0T4pcU_pBg4ETcdzhIdm3uoOE2xkq3gOnGGKd5-I/viewform">Propose a talk</a></p>
 								<h3>Sponsorship Prices</h3>
                 <p>Sponsorship is available for single events, or the entire tour (see below).</p>
 
