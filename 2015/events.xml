@@ -7,7 +7,7 @@
     <latitude>37.7833</latitude>
     <longitude>-122.4167</longitude>
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-sfo-tickets-10822501393]]></registration>
-    <body><![CDATA[We start the 2015 LocationTech Tour in the Golden Gate City. This evening event starts with a happy hour and features speakers from Boundless, Planet Labs, Red Hat, Twitter, and more.]]></body>
+    <body><![CDATA[This evening event starts with a happy hour and features speakers building innovative solutions using open source and open data.]]></body>
   </event>
   <event>
     <city>Washington D.C.</city>
@@ -16,7 +16,7 @@
     <latitude>38.895112</latitude>
     <longitude>-77.036366</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
-    <body><![CDATA[We celebrate one year of successes with an evening of good food, drinks, and short presentations highlighting the innovative new technology projects hosted at LocationTech.]]></body>
+    <body><![CDATA[We return to the capital with an evening of good food, drinks, and short presentations highlighting the innovative new technology and initiatives.]]></body>
   </event>
   <event>
     <city>Atlanta</city>
@@ -79,7 +79,7 @@
     <latitude>53.5653</latitude>
     <longitude>10.0014</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511]]></registration>
-    <body><![CDATA[Hamburg's LocationTech event will be a conference-style speaker series featuring technical talks/demos on the convergence of open source and geospatial.]]></body>
+    <body><![CDATA[This event will be a conference-style speaker series featuring technical talks/demos on the convergence of open source and geospatial.]]></body>
   </event>
   <event>
     <city>Berlin</city>
