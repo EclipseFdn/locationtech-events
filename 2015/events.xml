@@ -180,4 +180,13 @@
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-toulouse-tickets-11567724375]]></registration>
     <body><![CDATA[Please join us in Toulouse, the heart of the aerospace industry in Europe. This event features presentations and demos of technology pushing the state of the art for mobile mapping as well as advanced data version control and what that means for work flows.]]></body>
   </event>
+  <event>
+    <city>London</city>
+    <image>london.jpg</image>
+    <date>December 10, 2015 10:00:00 AM GMT</date>
+    <latitude>51.5072</latitude>
+    <longitude>0.1275</longitude>
+    <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-toulouse-tickets-11567724375]]></registration>
+    <body><![CDATA[TBD for London.]]></body>
+  </event>
 </events>
