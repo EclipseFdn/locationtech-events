@@ -118,15 +118,6 @@
     <body><![CDATA[Philadelphia's LocationTech event will be a conference-style speaker series featuring technical talks on the convergence of open source and geospatial. This will also be a <a href="http://geophilly.com/">GeoPhilly</a> event hosted by <a href="http://www.azavea.com/">Azavea</a>.  A social happy hour will follow.]]></body>
   </event>
   <event>
-    <city>Philadelphia Code Sprint</city>
-    <image>philadelphia.jpg</image>
-    <date>November 21, 2015 10:00:00 AM EST</date>
-    <latitude>39.7548</latitude>
-    <longitude>-75.5467</longitude>
-    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-code-sprint-2015-tickets-12628794063]]></registration>
-    <body><![CDATA[This event is a code sprint hosted by <a href="http://www.azavea.com/">Azavea</a>. This event provides an opportunity to work on open source geosptial project code with experts. All projects are welcome.]]></body>
-  </event>
-  <event>
     <city>Washington D.C.</city>
     <image>washingtondc.jpg</image>
     <date>December 11, 2015 06:30:00 PM EST</date>
