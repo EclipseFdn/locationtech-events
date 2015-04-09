@@ -46,15 +46,6 @@
     <body><![CDATA[TBD for Oak Ridge.]]></body>
   </event>
   <event>
-    <city>Calgary</city>
-    <image>calgary.jpg</image>
-    <date>September 16, 2015 06:30:00 PM MDT</date>
-    <latitude>51.0500</latitude>
-    <longitude>-114.0667</longitude>
-    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-iot-calgary-tickets-12165867437]]></registration>
-    <body><![CDATA[This event features food, drinks, short presentations, and cool demos of advanced open source geospatial software.]]></body>
-  </event>
-  <event>
     <city>Victoria</city>
     <image>victoria.jpg</image>
     <date>October 13, 2015 06:30:00 PM PST</date>
@@ -93,11 +84,20 @@
   <event>
     <city>Ottawa</city>
     <image>ottawa.jpg</image>
-    <date>November 12, 2015 09:00:00 AM EST</date>
+    <date>October 13, 2015 09:00:00 AM EST</date>
     <latitude>45.393348</latitude>
     <longitude>-75.69561</longitude>
     <registration><![CDATA[http://2015.visiongeomatique.com/index_en.html#top]]></registration>
     <body><![CDATA[TBD for Ottawa.]]></body>
+  </event>
+  <event>
+    <city>Toronto</city>
+    <image>toronto.jpg</image>
+    <date>October 15, 2015 06:30:00 PM EST</date>
+    <latitude>43.7000</latitude>
+    <longitude>-79.4000</longitude>
+    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-toronto-tickets-12168003827]]></registration>
+    <body><![CDATA[Hosted by the University of Toronto, this event is a focus on high performance geoprocessing and big data.]]></body>
   </event>
   <event>
     <city>Boston</city>
@@ -134,15 +134,6 @@
     <longitude>-122.6819</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-foss4g-bof-tickets-12165801239]]></registration>
     <body><![CDATA[TBD for Portland.]]></body>
-  </event>
-  <event>
-    <city>Toronto</city>
-    <image>toronto.jpg</image>
-    <date>November 10, 2015 06:30:00 PM EST</date>
-    <latitude>43.7000</latitude>
-    <longitude>-79.4000</longitude>
-    <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-toronto-tickets-12168003827]]></registration>
-    <body><![CDATA[Hosted by the University of Toronto, this event is a focus on high performance geoprocessing and big data.]]></body>
   </event>
   <event>
     <city>Madrid</city>
