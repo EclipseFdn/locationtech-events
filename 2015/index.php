@@ -92,7 +92,7 @@
                 <p><a href="mailto:info@locationtech.org">
                 	<strong class="contrast">Contact us about sponsoring</strong></a>
                 </p>
-                <p><a href="http://tour.locationtech.org/2015/assets/agreement/LocationTech_Tour2015_sponsor_agreement.pdf">
+                <p><a href="http://tour.locationtech.org/2015/assets/agreement/LocationTech_Tour_sponsor_agreement_2015.pdf">
                         <strong class="contrast">Sponsor Agreement</strong></a>
                 </p>
 							</div>
