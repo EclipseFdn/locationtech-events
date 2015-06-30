@@ -53,7 +53,7 @@
 						<li><a title="2013 Tour" href="http://tour.locationtech.org/2013/">2013 Tour</a></li>
 						<li><a title="2014 Tour" href="http://tour.locationtech.org/2014/">2014 Tour</a></li>
 						<li><a title="Events" href="http://locationtech.org/meetings">Events</a></li>
-                                                <li><a title="Code of Conduct" href="https://locationtech.org/conduct">Code of Conduct</a></li>
+                                                <li><a title="Code of Conduct" href="https://locationtech.org/eventConduct">Code of Conduct</a></li>
 						<li><a title="About Us" href="http://locationtech.org/about">About Us</a></li>
 					</ul>
 					<!--  <span class="visible-lg pull-right"><?php print $next['registration'];?></span> -->
