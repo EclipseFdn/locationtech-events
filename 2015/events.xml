@@ -27,7 +27,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
     <body><![CDATA[As Scarlett said "Where shall I go and What shall I do?". Well - Go to Atlanta for a evening of drinks, presentations, and networking with your peers as LocationTech makes it's first appearance in Georgia.]]></body>
   </event>
-  <event>
+<!--  <event>
     <city>Huntsville</city>
     <image>huntsville.jpg</image>
     <date>October 21, 2015 06:30:00 PM EST</date>
@@ -36,6 +36,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
     <body><![CDATA[TBD for Huntsville.]]></body>
   </event>
+-->
   <event>
     <city>Oak Ridge</city>
     <image>oakridge.jpg</image>
