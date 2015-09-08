@@ -55,7 +55,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-tour-victoria-tickets-17967180320]]></registration>
     <body><![CDATA[A social evening of fun, mapping and technology.]]></body>
   </event>
-  <event>
+<!--  <event>
     <city>Vancouver</city>
     <image>vancouver.jpg</image>
     <date>October 14, 2015 06:30:00 PM PST</date>
@@ -64,6 +64,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-tour-vancouver-tickets-18053422272]]></registration>
     <body><![CDATA[A social evening of fun, mapping and technology.]]></body>
   </event>
+-->
   <event>
     <city>Hamburg</city>
     <image>hamburg.jpg</image>
