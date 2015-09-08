@@ -100,7 +100,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-toronto-tickets-12168003827]]></registration>
     <body><![CDATA[Hosted by the University of Toronto, this event is a focus on high performance geoprocessing and big data.]]></body>
   </event>
-  <event>
+<!--  <event>
     <city>Boston</city>
     <image>boston.jpg</image>
     <date>October 6, 2015 06:30:00 PM EST</date>
@@ -109,6 +109,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/avidgeo-conference-locationtech-tour-boston-tickets-17677546016]]></registration>
     <body><![CDATA[The AvidGeo Conference, part of the LocationTech Tour, is a great chance to hear about geospatial technology and get hands on workshop time with current tools. This evening conference is made up of 30 minute talks that will expose attendees to useful geospatial technology]]></body>
   </event>
+-->
   <event>
     <city>New York</city>
     <image>newyork.jpg</image>
