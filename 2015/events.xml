@@ -92,7 +92,7 @@
     <registration><![CDATA[http://2015.visiongeomatique.com/index_en.html#top]]></registration>
     <body><![CDATA[TBD for Ottawa.]]></body>
   </event>
-  <event>
+<!--  <event>
     <city>Toronto</city>
     <image>toronto.jpg</image>
     <date>October 28, 2015 06:30:00 PM EST</date>
@@ -101,6 +101,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-toronto-tickets-12168003827]]></registration>
     <body><![CDATA[Hosted by the University of Toronto, this event is a focus on high performance geoprocessing and big data.]]></body>
   </event>
+-->
 <!--  <event>
     <city>Boston</city>
     <image>boston.jpg</image>
