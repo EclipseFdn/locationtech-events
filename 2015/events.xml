@@ -139,6 +139,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-foss4g-bof-tickets-12165801239]]></registration>
     <body><![CDATA[TBD for Portland.]]></body>
   </event>
+<!--
   <event>
     <city>Madrid</city>
     <image>madrid.jpg</image>
@@ -148,7 +149,8 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-12166132229]]></registration>
     <body><![CDATA[This LocationTech Meetup in Madrid is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, learn about useful technology, and plenty of camraderie.]]></body>
   </event>
-  <event>
+-->
+<!--  <event>
     <city>Valencia</city>
     <image>valencia.jpg</image>
     <date>December 8, 2015 06:30:00 PM CET</date>
@@ -157,10 +159,11 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-12166132229]]></registration>
     <body><![CDATA[TBD for Valencia.]]></body>
   </event>
+-->
   <event>
     <city>Toulouse</city>
     <image>toulouse.jpg</image>
-    <date>December 9, 2015 05:00:00 PM CET</date>
+    <date>December 8, 2015 05:00:00 PM CET</date>
     <latitude>43.6045</latitude>
     <longitude>1.4440</longitude>
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-toulouse-tickets-11567724375]]></registration>
