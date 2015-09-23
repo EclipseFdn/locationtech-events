@@ -149,7 +149,7 @@
     <registration><![CDATA[http://www.meetup.com/GeoPhilly/events/224878118/]]></registration>
     <body><![CDATA[Philadelphia's LocationTech event will be a conference-style speaker series and happy hour featuring technical talks on the convergence of open source and geospatial. This will also be a GeoPhilly event hosted by Azavea.]]></body>
   </event>
-  <event>
+<!--  <event>
     <city>Portland</city>
     <image>portland.jpg</image>
     <date>October 15, 2015 07:00:00 PM PDT</date>
@@ -158,6 +158,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-foss4g-bof-tickets-12165801239]]></registration>
     <body><![CDATA[TBD for Portland.]]></body>
   </event>
+-->
 <!--
   <event>
     <city>Madrid</city>
