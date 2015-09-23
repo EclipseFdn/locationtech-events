@@ -93,7 +93,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511]]></registration>
     <body><![CDATA[This event will be a conference-style speaker series featuring technical talks/demos on the convergence of open source and geospatial.]]></body>
   </event>
-  <event>
+<!--  <event>
     <city>Berlin</city>
     <image>berlin.jpg</image>
     <date>November 12, 2015 06:30:00 PM CET</date>
@@ -102,6 +102,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511]]></registration>
     <body><![CDATA[TBD for Berlin.]]></body>
   </event>
+-->
   <event>
     <city>Ottawa</city>
     <image>ottawa.jpg</image>
