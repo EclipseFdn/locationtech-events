@@ -68,11 +68,11 @@
   <event>
     <city>Victoria</city>
     <image>victoria.jpg</image>
-    <date>October 13, 2015 06:30:00 PM PST</date>
+    <date>October 22-23, 2015 06:30:00 PM PST</date>
     <latitude>48.4222</latitude>
     <longitude>-123.3657</longitude>
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-tour-victoria-tickets-17967180320]]></registration>
-    <body><![CDATA[A social evening of fun, mapping and technology.]]></body>
+    <body><![CDATA[A social evening of <a href="http://www.meetup.com/Victoria-GeoGeeks/events/225705769/">fun, mapping and technology</a> on October 22nd, followed by a <a href="http://www.meetup.com/Victoria-GeoGeeks/events/225084484/">day of workshops at the University of Victoria</a> on October 24th.]]></body>
   </event>
 <!--  <event>
     <city>Vancouver</city>
