@@ -105,11 +105,11 @@
   <event>
     <city>Ottawa</city>
     <image>ottawa.jpg</image>
-    <date>October 27, 2015 09:00:00 AM EST</date>
+    <date>December 15, 2015 07:00:00 PM EST</date>
     <latitude>45.393348</latitude>
     <longitude>-75.69561</longitude>
-    <registration><![CDATA[http://2015.visiongeomatique.com/index_en.html#top]]></registration>
-    <body><![CDATA[TBD for Ottawa.]]></body>
+    <registration><![CDATA[http://tour.locationtech.org]]></registration>
+    <body><![CDATA[This event features some of the best open source and open data initiatives in Canada's capital.]]></body>
   </event>
 <!--  <event>
     <city>Toronto</city>
