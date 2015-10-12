@@ -168,6 +168,15 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-12166132229]]></registration>
     <body><![CDATA[This LocationTech Meetup in Madrid is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, learn about useful technology, and plenty of camraderie.]]></body>
   </event>
+  <event>
+    <city>Moscow</city>
+    <image>moscow.jpg</image>
+    <date>November 21, 2015 09:00:00 PM CET</date>
+    <latitude>55.7500</latitude>
+    <longitude>37.6167</longitude>
+    <registration><![CDATA[http://gisconf.ru/]]></registration>
+    <body><![CDATA[The LocationTech Tour is pleased to partner with Open GIS 2015 which runs in Moscow on November 21 and 22.]]></body>
+  </event>
 <!--  <event>
     <city>Valencia</city>
     <image>valencia.jpg</image>
