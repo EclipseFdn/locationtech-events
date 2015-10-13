@@ -36,7 +36,7 @@
     <registration><![CDATA[http://fedgeoday.org/2015/]]></registration>
     <body><![CDATA[This one day conference focuses on technologies for developers in the defense and intelligence areas. The same event is repeated on December 1st and 2nd in different areas.]]></body>
   </event>
-  <event>
+<!--  <event>
     <city>Atlanta</city>
     <image>atlanta.jpg</image>
     <date>October 20, 2015 06:30:00 PM EST</date>
@@ -45,6 +45,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-advanced-geospatial-technology-tickets-10729878355]]></registration>
     <body><![CDATA[As Scarlett said "Where shall I go and What shall I do?". Well - Go to Atlanta for a evening of drinks, presentations, and networking with your peers as LocationTech makes it's first appearance in Georgia.]]></body>
   </event>
+-->
 <!--  <event>
     <city>Huntsville</city>
     <image>huntsville.jpg</image>
