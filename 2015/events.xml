@@ -85,6 +85,7 @@
     <body><![CDATA[A social evening of fun, mapping and technology.]]></body>
   </event>
 -->
+<!--
   <event>
     <city>Hamburg</city>
     <image>hamburg.jpg</image>
@@ -94,6 +95,7 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-hamburg-tickets-12166226511]]></registration>
     <body><![CDATA[This event will be a conference-style speaker series featuring technical talks/demos on the convergence of open source and geospatial.]]></body>
   </event>
+-->
   <event>
     <city>Berlin</city>
     <image>berlin.jpg</image>
