@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<events>
+<!--<events>
   <event>
     <city>San Francisco</city>
     <image>sanfrancisco.jpg</image>
@@ -9,6 +9,7 @@
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-sfo-tickets-10822501393]]></registration>
     <body><![CDATA[This evening event starts with a happy hour and features speakers building innovative solutions using open source and open data.]]></body>
   </event>
+-->
   <event>
     <city>FedGeoDay D.C.</city>
     <image>washingtondc.jpg</image>
