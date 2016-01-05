@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <events>
-<!--  <event>
+<!--  
+  <event>
     <city>San Francisco</city>
     <image>sanfrancisco.jpg</image>
     <date>December 10, 2015 06:30:00 PM PST</date>
@@ -10,6 +11,7 @@
     <body><![CDATA[This evening event starts with a happy hour and features speakers building innovative solutions using open source and open data.]]></body>
   </event>
 -->
+<!--
   <event>
     <city>FedGeoDay D.C.</city>
     <image>washingtondc.jpg</image>
@@ -19,6 +21,8 @@
     <registration><![CDATA[http://fedgeoday.org/2015/]]></registration>
     <body><![CDATA[This one day conference is for open source geo applications in the federal government.]]></body>
   </event>
+-->
+<!--  
   <event>
     <city>Developer Day 1</city>
     <image>washingtondc.jpg</image>
@@ -28,6 +32,8 @@
     <registration><![CDATA[http://events.carahsoft.com/event-detail/4349/rh/]]></registration>
     <body><![CDATA[This one day conference in Columbia, MD focuses on technologies for developers in the defense and intelligence areast. The same event is repeated on December 1st and 2nd in different areas.]]></body>
   </event>
+-->
+<!--  
   <event>
     <city>Developer Day 2</city>
     <image>washingtondc.jpg</image>
@@ -37,7 +43,9 @@
     <registration><![CDATA[http://events.carahsoft.com/event-detail/4349/rh/]]></registration>
     <body><![CDATA[This one day conference in Tyson's Corner focuses on technologies for developers in the defense and intelligence areas. The same event is repeated on December 1st and 2nd in different areas.]]></body>
   </event>
-<!--  <event>
+  -->
+<!--  
+  <event>
     <city>Atlanta</city>
     <image>atlanta.jpg</image>
     <date>October 20, 2015 06:30:00 PM EST</date>
@@ -47,7 +55,8 @@
     <body><![CDATA[As Scarlett said "Where shall I go and What shall I do?". Well - Go to Atlanta for a evening of drinks, presentations, and networking with your peers as LocationTech makes it's first appearance in Georgia.]]></body>
   </event>
 -->
-<!--  <event>
+<!--  
+  <event>
     <city>Huntsville</city>
     <image>huntsville.jpg</image>
     <date>October 21, 2015 06:30:00 PM EST</date>
@@ -57,7 +66,8 @@
     <body><![CDATA[TBD for Huntsville.]]></body>
   </event>
 -->
-<!--  <event>
+<!--  
+  <event>
     <city>Oak Ridge</city>
     <image>oakridge.jpg</image>
     <date>October 22, 2015 06:30:00 PM EST</date>
@@ -67,6 +77,7 @@
     <body><![CDATA[TBD for Oak Ridge.]]></body>
   </event>
 -->
+<!--  
   <event>
     <city>Victoria</city>
     <image>victoria.jpg</image>
@@ -76,7 +87,9 @@
     <registration><![CDATA[https://www.locationtech.org/content/locationtech-tour-victoria]]></registration>
     <body><![CDATA[A social evening of fun, mapping and technology on Thursday October 22nd, followed by a day of workshops at the University of Victoria on Friday October 23th.]]></body>
   </event>
-<!--  <event>
+-->
+<!--  
+  <event>
     <city>Vancouver</city>
     <image>vancouver.jpg</image>
     <date>October 14, 2015 06:30:00 PM PST</date>
@@ -97,6 +110,7 @@
     <body><![CDATA[This event will be a conference-style speaker series featuring technical talks/demos on the convergence of open source and geospatial.]]></body>
   </event>
 -->
+<!--
   <event>
     <city>Berlin</city>
     <image>berlin.jpg</image>
@@ -106,6 +120,8 @@
     <registration><![CDATA[http://www.eventbrite.ca/e/locationtech-meetup-berlin-tickets-19198856296]]></registration>
     <body><![CDATA[Berlin's event will feature a series of short talks, complementary drinks, camaraderie, and learning. We hope to see you there!]]></body>
   </event>
+-->
+<!--
   <event>
     <city>Ottawa</city>
     <image>ottawa.jpg</image>
@@ -115,7 +131,8 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/ottawa-geo-holiday-tickets-19828516627]]></registration>
     <body><![CDATA[This event features some of the best open source and open data initiatives in Canada's capital.]]></body>
   </event>
-<!--  <event>
+-->
+<!--
     <city>Toronto</city>
     <image>toronto.jpg</image>
     <date>October 28, 2015 06:30:00 PM EST</date>
@@ -135,6 +152,7 @@
     <body><![CDATA[The AvidGeo Conference, part of the LocationTech Tour, is a great chance to hear about geospatial technology and get hands on workshop time with current tools. This evening conference is made up of 30 minute talks that will expose attendees to useful geospatial technology]]></body>
   </event>
 -->
+<!--
   <event>
     <city>New York</city>
     <image>newyork.jpg</image>
@@ -144,6 +162,8 @@
     <registration><![CDATA[http://www.meetup.com/geonyc/events/225204621/]]></registration>
     <body><![CDATA[This event's theme is Mapping for Civic Importance. The event features great speakers, food, and drinks.]]></body>
   </event>
+-->
+<!--
   <event>
     <city>Philadelphia </city>
     <image>philadelphia.jpg</image>
@@ -153,7 +173,9 @@
     <registration><![CDATA[http://www.meetup.com/GeoPhilly/events/224878118/]]></registration>
     <body><![CDATA[Philadelphia's LocationTech event will be a conference-style speaker series and happy hour featuring technical talks on the convergence of open source and geospatial. This will also be a GeoPhilly event hosted by Azavea.]]></body>
   </event>
-<!--  <event>
+-->
+<!--
+  <event>
     <city>Portland</city>
     <image>portland.jpg</image>
     <date>October 15, 2015 07:00:00 PM PDT</date>
@@ -163,6 +185,7 @@
     <body><![CDATA[TBD for Portland.]]></body>
   </event>
 -->
+<!--
   <event>
     <city>Madrid</city>
     <image>madrid.jpg</image>
@@ -172,6 +195,8 @@
     <registration><![CDATA[https://www.eventbrite.ca/e/locationtech-meetup-madrid-tickets-19199016776]]></registration>
     <body><![CDATA[This LocationTech Meetup in Madrid is a chance to meet members, project developers, entrepreneurs, and other interesting people for an enjoyable evening of good food, drinks, learn about useful technology, and plenty of camraderie.]]></body>
   </event>
+-->
+<!--
   <event>
     <city>Moscow</city>
     <image>moscow.jpg</image>
@@ -181,7 +206,9 @@
     <registration><![CDATA[http://gisconf.ru/]]></registration>
     <body><![CDATA[The LocationTech Tour is pleased to partner with Open GIS 2015 which runs in Moscow on November 21 and 22.]]></body>
   </event>
-<!--  <event>
+-->
+<!--
+<event>
     <city>Valencia</city>
     <image>valencia.jpg</image>
     <date>December 8, 2015 06:30:00 PM CET</date>
