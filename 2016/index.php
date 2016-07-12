@@ -157,15 +157,16 @@
 							</ul>
     	      </div>
       	    <div class="col-md-4 col-sm-4">
+<!--
         	    <h4>Speakers list</h4>
           	  <ul class="list-unstyled">
             	  <li><a href="http://azavea.com">Robert Cheetham, Azavea</a></li>
             	  <li><a href="http://planet.com">Frank Warmerdam, Planetlabs</a></li>
-            	  <li><a href="http://boundlessgeo.com">Juan Marin, Boundless</a></li>
             	  <li><a href=""></a></li>
 		  <li><a href="http://locationtechdc1.eventbrite.com/">Charlie Greenbacker, Altamira</a></li>
             	  <li><a href="http://ccri.com">Anthony Fox, CCRi</a></li>
             	</ul>
+-->
 	          </div>
   	        <div class="col-md-4 col-sm-4">
     	        <h4>Events</h4>
