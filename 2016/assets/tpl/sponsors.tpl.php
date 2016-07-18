@@ -6,6 +6,7 @@
 			<li><a href="http://boundlessgeo.com/" title="Boundlessgeo" target="_blank"><img src="assets/images/sponsors/Boundlessgeo.png" alt="Boundlessgeo"/></a></li>
 			<li><a href="http://cartodb.com/" title="CartoDB" target="_blank"><img src="assets/images/sponsors/cartodb.png" alt="CartoDB"/></a></li>
 			<li><a href="http://cesiumjs.org/" title="Cesium" target="_blank"><img src="assets/images/sponsors/Cesium.jpg" alt="Cesium"/></a></li>
+			<li><a href="http://redhat.com" title="Red Hat" target="_blank"><img src="assets/images/sponsors/Redhat.png" alt="Red Hat"/></a></li>
 			<!--<li><a href="http://www.appgeo.com/" title="Applied Geographics" target="_blank"><img src="assets/images/sponsors/appgeo.jpg" height="63" width="160" alt="Applied Geographics"/></a></li>-->
 
 			<!--<li><a href="http://www.mapgears.com/" title="MapGears" target="_blank"><img src="assets/images/sponsors/MapGears.png" height="87" width="160" alt="MapGears"/></a></li>-->
