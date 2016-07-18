@@ -4,7 +4,7 @@
 		<ul class="list-inline">
  		        <li><a href="http://azavea.com/" title="Azavea" target="_blank"><img src="assets/images/sponsors/Azavea.png" height="39" width="160" alt="Azavea"/></a></li>
 			<li><a href="http://boundlessgeo.com/" title="Boundlessgeo" target="_blank"><img src="assets/images/sponsors/Boundlessgeo.png" alt="Boundlessgeo"/></a></li>
-			<li><a href="http://cartodb.com/" title="CartoDB" target="_blank"><img src="assets/images/sponsors/cartodb.png" alt="CartoDB"/></a></li>
+			<!--<li><a href="http://cartodb.com/" title="CartoDB" target="_blank"><img src="assets/images/sponsors/cartodb.png" alt="CartoDB"/></a></li>-->
 			<li><a href="http://cesiumjs.org/" title="Cesium" target="_blank"><img src="assets/images/sponsors/Cesium.jpg" alt="Cesium"/></a></li>
 			<li><a href="http://redhat.com" title="Red Hat" target="_blank"><img src="assets/images/sponsors/Redhat.png" alt="Red Hat"/></a></li>
 			<li><a href="https://geovation.uk/hub/" title="Ordnance Survey" target="_blank"><img src="assets/images/sponsors/geovation_os.png" alt="Ordnance Survey's Geovation Hub"/></a></li>
@@ -20,7 +20,7 @@
 
 <!--			<li><a href="http://osgeo.org/" title="OSGeo" target="_blank"><img src="assets/images/sponsors/OSGeo.png" alt="OSGeo"/></a></li>-->
 
-			<li><a href="http://radiantblue.com/" title="Radiant Blue" target="_blank"><img src="assets/images/sponsors/radiantblue.png" alt="Radiant Blue"/></a></li>
+			<!--<li><a href="http://radiantblue.com/" title="Radiant Blue" target="_blank"><img src="assets/images/sponsors/radiantblue.png" alt="Radiant Blue"/></a></li>-->
 
 		</ul>
   </div>
