@@ -4,11 +4,11 @@
   <event>
     <city>Washington DC</city>
     <image>washingtondc.jpg</image>
-    <date>October 13, 2016 9:30:00 AM EST</date>
+    <date>October 14, 2016 9:30:00 AM EST</date>
     <latitude>38.895112</latitude>
     <longitude>-77.036366</longitude>
-    <registration><![CDATA[https://www.regonline.com/Register/Checkin.aspx?EventID=1851732]]></registration>
-    <body><![CDATA[This one day conference will introduce you to these tools, show you what you can do with them, and walk through how and why government agencies are using them to dramatically improve their mapping, cartography, and GIS projects.]]></body>
+    <registration><![CDATA[Coming soon!]]></registration>
+    <body><![CDATA[Join us for a LocationTech project design sprint and hackathon.]]></body>
   </event>
 
   <event>
@@ -34,7 +34,7 @@
   <event>
     <city>Denver</city>
     <image>denver.jpg</image>
-    <date>September 21, 2016, 2016 5:30:00 PM EST</date>
+    <date>September 21, 2016</date>
     <latitude>39.6838925</latitude>
     <longitude>-104.9659261</longitude>
     <registration><![CDATA[http://gisintherockies.org/registration]]></registration>
@@ -44,7 +44,7 @@
   <event>
     <city>Chattanooga</city>
     <image>chattanooga.jpg</image>
-    <date>August 4, 2016, 2016 5:30:00 PM EST</date>
+    <date>August 4, 2016</date>
     <latitude>35.0358</latitude>
     <longitude>-85.3066</longitude>
     <registration><![CDATA[Coming Soon!]]></registration>
