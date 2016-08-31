@@ -12,13 +12,13 @@
   </event>
 
   <event>
-    <city>Atlanta</city>
-    <image>atlanta.jpg</image>
-    <date>August 3, 2016 5:30:00 PM EST</date>
-    <latitude>33.7608</latitude>
-    <longitude>-84.4012</longitude>
-    <registration><![CDATA[Coming Soon!]]></registration>
-    <body><![CDATA[Are you in the metro Atlanta area? Stop by to hear about the lastest in open source geo-spatial.]]></body>
+    <city>Athens, GA</city>
+    <image>athens.jpg</image>
+    <date>October 3, 2016 5:30:00 PM EST</date>
+    <latitude>33.9441952</latitude>
+    <longitude>--83.5292074</longitude>
+    <registration><![CDATA[http://www.geospatialconferencega.com/registration-2]]></registration>
+    <body><![CDATA[Georgia URISA and GITA Southeast are joining together again for the Georgia Geospatial Conference of 2016 to be held October 3rd-5th at the Classic Center in downtown Athens.  Participants are welcome from federal, state, local governments; academic; private sector; non-profit and international organizations.]]></body>
   </event>
 
   <event>
@@ -94,11 +94,11 @@
   <event>
     <city>London</city>
     <image>london.jpg</image>
-    <date>March 23, 2016 6:00:00 PM GMT</date>
+    <date>November 23, 2016 6:00:00 PM GMT</date>
     <latitude>51.5072</latitude>
     <longitude>0.1275</longitude>
-    <registration><![CDATA[http://www.meetup.com/London-Eclipse-User-Group/events/228434318/]]></registration>
-    <body><![CDATA[Join us for an evening of collaboration, exchanging ideas and being inspired. Eclipse Converge is an event focussed on the collaborative working groups within the Eclipse Science, LocationTech and IoT communities.]]></body>
+    <registration><![CDATA[Coming soon!]]></registration>
+    <body><![CDATA[]]></body>
   </event>
 
 </events>
