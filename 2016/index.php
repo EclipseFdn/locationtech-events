@@ -50,8 +50,8 @@
 						<li><a title="Technology" href="http://www.locationtech.org/list-of-projects">Technology</a></li>
 						<li><a title="A list of Sponsors" href="http://tour.locationtech.org/2016/sponsors.php">Sponsors</a></li>
 						<li><a title="Members" href="http://locationtech.org/members">Members</a></li>
-						<li><a title="2013 Tour" href="http://tour.locationtech.org/2013/">2013 Tour</a></li>
-						<li><a title="2014 Tour" href="http://tour.locationtech.org/2014/">2014 Tour</a></li>
+						<li><a title="FedGeoDay" href="http://fedgeoday.org//">FedGeoDay</a></li>
+						<li><a title="2014 Tour" href="http://tour.locationtech.org/2015/">2015 Tour</a></li>
 						<li><a title="Events" href="http://locationtech.org/meetings">Events</a></li>
                                                 <li><a title="Code of Conduct" href="https://locationtech.org/eventConduct">Code of Conduct</a></li>
 						<li><a title="About Us" href="http://locationtech.org/about">About Us</a></li>
