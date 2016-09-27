@@ -8,6 +8,7 @@
 			<li><a href="http://cesiumjs.org/" title="Cesium" target="_blank"><img src="assets/images/sponsors/Cesium.jpg" alt="Cesium"/></a></li>
 			<li><a href="http://redhat.com" title="Red Hat" target="_blank"><img src="assets/images/sponsors/Redhat.png" alt="Red Hat"/></a></li>
 			<li><a href="https://geovation.uk/hub/" title="Ordnance Survey" target="_blank"><img src="assets/images/sponsors/geovation_os.png" alt="Ordnance Survey's Geovation Hub"/></a></li>
+			<li><a href="http://www.cla.temple.edu/gus/graduate/psm/" title="Professional Science Master’s in Geographic Information Systems" target="_blank"><img src="assets/images/sponsors/temple.png" alt="Professional Science Master’s in Geographic Information Systems"/></a></li>
 			<!--<li><a href="http://www.appgeo.com/" title="Applied Geographics" target="_blank"><img src="assets/images/sponsors/appgeo.jpg" height="63" width="160" alt="Applied Geographics"/></a></li>-->
 
 			<!--<li><a href="http://www.mapgears.com/" title="MapGears" target="_blank"><img src="assets/images/sponsors/MapGears.png" height="87" width="160" alt="MapGears"/></a></li>-->
