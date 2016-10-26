@@ -1,6 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <events>
   
+  <event>
++ +    <city>Victoria, BC</city>
+ + +    <image>victoria.jpg</image>
+ + +    <date>November 9, 2016 9:00:00 AM PST</date>
+ + +    <latitude>48.4647752</latitude>
+ + +    <longitude>-123.3167864</longitude>
+ + +    <registration><![CDATA[http://www.meetup.com/Victoria-GeoGeeks/events/234841031/]]></registration>
+ + +    <body><![CDATA[A full day of hands-on-workshops and talks introducing and using open source spatial software. A big thanks to the University of Victoria for providing a venue - space may be limited so sign up early.]]></body>
+ + +  </event>
+  
+ + +  <event>
+ + +    <city>Victoria, BC</city>
+ + +    <image>victoria.jpg</image>
+ + +    <date>November 8, 2016 6:00:00 PM PST</date>
+ + +    <latitude>48.428668</latitude>
+ + +    <longitude>-123.3714117</longitude>
+ + +    <registration><![CDATA[http://www.meetup.com/Victoria-GeoGeeks/events/234840851/]]></registration>
+ + +    <body><![CDATA[This year's LocationTech tour includes an evening of talks at Swan's brewpub from 6PM-9PM.]]></body>
+ + +  </event>  
+  
  +    <event>
  +    <city>San Francisco</city>
  +    <image>sanfrancisco.jpg</image>
