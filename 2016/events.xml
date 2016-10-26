@@ -1,8 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <events>
   
+ <event>
++ +    <city>JTS Code Sprint</city>
+ + +    <image>victoria.jpg</image>
+ + +    <date>November 3, 2016 9:00:00 AM PST</date>
+ + +    <latitude>48.4647752</latitude>
+ + +    <longitude>-123.3167864</longitude>
+ + +    <registration><![CDATA[http://www.meetup.com/Victoria-GeoGeeks/events/234841031/]]></registration>
+ + +    <body><![CDATA[An event to move JTS through the remaining steps in Eclipse Foundation Incubation.]]></body>
+ + +  </event>
+  
   <event>
-+ +    <city>Victoria, BC</city>
+ + +    <city>Victoria, BC</city>
  + +    <image>victoria.jpg</image>
  + +    <date>November 9, 2016 9:00:00 AM PST</date>
  + +    <latitude>48.4647752</latitude>
