@@ -1,6 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <events>
-
+  
+ +    <event>
+ +    <city>San Francisco</city>
+ +    <image>sanfrancisco.jpg</image>
+ +    <date>November 16, 2016 01:30:00 PM PST</date>
+ +    <latitude>37.7833779</latitude>
+ +    <longitude>-122.4125922</longitude>
+ +    <registration><![CDATA[http://events.baygeo.org/2016-11-GIS-Day/]]></registration>
+ +    <body><![CDATA[Join the conversation from 1-4:30pm for a free half-day of unconference-style workshops, talks, and discussions. Then join us for a panel on how new technologies can create new industries while also making the world a better place.]]></body>
+ +  </event>
+ 
   <event>
     <city>Washington DC</city>
     <image>washingtondc.jpg</image>
