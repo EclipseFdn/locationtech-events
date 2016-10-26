@@ -2,6 +2,16 @@
 <events>
   
  <event>
++ +    <city>New York City</city>
+ + +    <image>nyc.jpg</image>
+ + +    <date>November 14, 2016 6:00:00 PM EST</date>
+ + +    <latitude>40.7442135</latitude>
+ + +    <longitude>-73.9926339</longitude>
+ + +    <registration><![CDATA[https://www.meetup.com/geonyc/]]></registration>
+ + +    <body><![CDATA[Join GeoNYC for a night of civic geo.]]></body>
+ + +  </event>
+  
+  <event>
 + +    <city>JTS Code Sprint</city>
  + +    <image>victoria.jpg</image>
  + +    <date>November 3, 2016 9:00:00 AM PST</date>
