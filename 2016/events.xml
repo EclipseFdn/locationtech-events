@@ -147,8 +147,12 @@
     <date>November 23, 2016 6:00:00 PM GMT</date>
     <latitude>51.5072</latitude>
     <longitude>0.1275</longitude>
-    <registration><![CDATA[Coming soon!]]></registration>
-    <body><![CDATA[]]></body>
+    <registration><![CDATA[https://www.meetup.com/London-Eclipse-User-Group/events/228434318/]]></registration>
+    <body><![CDATA[Join us for an evening of collaboration, exchanging ideas and being inspired. Eclipse Converge is an event focussed on the collaborative working groups within the Eclipse open source community:
+    • LocationTech 
+    • IoT 
+    • Science 
+We will have a networking break in the middle of the evening, as well as food and beverages for those attending. ]]></body>
   </event>
 
 </events>
